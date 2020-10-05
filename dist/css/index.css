@@ -1,0 +1,116 @@
+body, p, h1, h2, h3, h4, h5, h6, ul, ol, li, dl, dt, dd, input {
+  margin: 0;
+  padding: 0; }
+
+ul, ol, li {
+  list-style: none; }
+
+img {
+  vertical-align: top;
+  border: none; }
+
+body {
+  font-size: 12px; }
+
+.fl {
+  float: left; }
+
+.fr {
+  float: right; }
+
+a {
+  text-decoration: none;
+  color: #000; }
+
+.clr:after {
+  content: " ";
+  display: block;
+  clear: both;
+  height: 0;
+  overflow: hidden;
+  visibility: hidden; }
+
+.clr {
+  zoom: 1; }
+
+section, article, aside, header, footer, nav, figure, main, hgroup {
+  display: block; }
+
+.header {
+  width: 100%;
+  height: 30px;
+  line-height: 30px;
+  background-color: #F5F5F5; }
+  .header .header-c {
+    width: 1000px;
+    margin: auto;
+    height: 30px; }
+    .header .header-c .icon-city {
+      display: inline-block;
+      margin-left: 10px;
+      color: gray; }
+    .header .header-c .h-ul {
+      height: 30px; }
+      .header .header-c .h-ul li {
+        padding: 0 15px;
+        color: #666666;
+        cursor: pointer; }
+        .header .header-c .h-ul li .iconfont {
+          color: #999; }
+        .header .header-c .h-ul li:hover {
+          color: #FA2A83; }
+          .header .header-c .h-ul li:hover .iconfont {
+            color: #999999; }
+          .header .header-c .h-ul li:hover .icon-shoucang1 {
+            color: #FA2A83; }
+        .header .header-c .h-ul li .icon-xiala {
+          margin-left: 2px; }
+        .header .header-c .h-ul li .icon-shoucang1 {
+          color: #FA2A83;
+          margin-right: 2px; }
+
+.header-b {
+  width: 1000px;
+  margin: auto; }
+  .header-b .img-logo {
+    width: 160px; }
+  .header-b .ensure {
+    line-height: 100px; }
+    .header-b .ensure div {
+      color: #777;
+      font-size: 14px;
+      margin: 0 10px; }
+      .header-b .ensure div .iconfont {
+        display: inline-block;
+        color: #FA2A83;
+        font-size: 18px;
+        margin: 2px; }
+  .header-b .search {
+    margin: 32px 0 0 50px;
+    width: 402px; }
+    .header-b .search input {
+      padding-left: 12px;
+      width: 334px;
+      height: 34px;
+      outline: 0;
+      border: 2px solid #FA2A83; }
+    .header-b .search button {
+      width: 52px;
+      height: 38px;
+      background-color: #FA2A83;
+      outline: 0;
+      border: none; }
+      .header-b .search button .icon-fangdajing {
+        color: white;
+        font-size: 20px; }
+    .header-b .search ul {
+      margin-top: 6px; }
+      .header-b .search ul li {
+        height: 12px;
+        line-height: 12px;
+        margin: 0 6px;
+        color: #999;
+        border-right: 1px solid #999;
+        padding-right: 10px; }
+      .header-b .search ul > :nth-child(5) {
+        border: none; }

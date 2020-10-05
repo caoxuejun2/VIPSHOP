@@ -37,6 +37,7 @@ a{
 section,article,aside,header,footer,nav,figure,main,hgroup{
 	display: block;
 }
+
 @mixin c {
   width: 1000px;
   margin: auto;
@@ -53,7 +54,89 @@ section,article,aside,header,footer,nav,figure,main,hgroup{
       display: inline-block;
       margin-left: 10px;
       color: gray;
-    }
+		}
+		.h-ul{
+			height: 30px;
+			li{
+				padding: 0 15px;
+				color: #666666;
+				cursor: pointer;
+				.iconfont{
+					color: #999;
+				}
+				&:hover{
+					color: #FA2A83;
+					.iconfont{
+						color: #999999;
+					}
+					.icon-shoucang1{
+						color: #FA2A83;
+					}
+				}
+				.icon-xiala{
+					margin-left: 2px;
+				}
+				.icon-shoucang1{
+					color: #FA2A83;
+					margin-right: 2px;
+				}
+			}
+		}
   }
 }
-
+.header-b{
+	@include c ();
+	.img-logo{
+		width: 160px;
+	}
+	.ensure{
+		line-height: 100px;
+		div{
+			color: #777;
+			font-size: 14px;
+			margin: 0 10px;
+			.iconfont{
+				display: inline-block;
+				color: #FA2A83;
+				font-size: 18px;
+				margin: 2px;
+			}
+		}
+	}
+	.search{
+		margin: 32px 0 0 50px;
+		width: 402px;
+		input{
+			padding-left: 12px;
+			width: 334px;
+			height: 34px;
+			outline: 0;
+			border: 2px solid #FA2A83;
+		}
+		button{
+			width: 52px;
+			height: 38px;
+			background-color: #FA2A83;
+			outline: 0;
+			border: none;
+			.icon-fangdajing{
+				color: white;
+				font-size: 20px;
+			}
+		}
+		ul{
+			margin-top: 6px;
+			li{
+				height: 12px;
+				line-height: 12px;
+				margin: 0 6px;
+				color: #999;
+				border-right: 1px solid #999;
+				padding-right: 10px;
+			}
+			&>:nth-child(5){
+				border: none;
+			}
+		}
+	}
+}
