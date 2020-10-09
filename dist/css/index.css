@@ -77,7 +77,6 @@ section, article, aside, header, footer, nav, figure, main, hgroup {
   .header-b .ensure {
     line-height: 100px; }
     .header-b .ensure div {
-      color: #777;
       font-size: 14px;
       margin: 0 10px; }
       .header-b .ensure div .iconfont {
@@ -85,8 +84,12 @@ section, article, aside, header, footer, nav, figure, main, hgroup {
         color: #FA2A83;
         font-size: 18px;
         margin: 2px; }
+      .header-b .ensure div a {
+        color: #777; }
+    .header-b .ensure > :nth-child(1) {
+      margin-left: 0; }
   .header-b .search {
-    margin: 32px 0 0 50px;
+    margin: 32px 0 0 30px;
     width: 402px; }
     .header-b .search input {
       padding-left: 12px;
@@ -114,3 +117,223 @@ section, article, aside, header, footer, nav, figure, main, hgroup {
         padding-right: 10px; }
       .header-b .search ul > :nth-child(5) {
         border: none; }
+  .header-b .shoppingbag {
+    width: 96px;
+    height: 36px;
+    background-color: #F6F7F9;
+    border: 1px solid gray;
+    margin: 32px 0 0 10px;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-around;
+    align-items: center; }
+    .header-b .shoppingbag .icon-gouwudai {
+      font-size: 20px;
+      margin-left: 4px; }
+    .header-b .shoppingbag .shopping-num {
+      display: inline-block;
+      width: 22px;
+      border-radius: 10px;
+      text-align: center;
+      color: white;
+      background-color: #FA2A83; }
+
+aside {
+  width: 36px;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  right: 0;
+  background-color: #262626;
+  color: white;
+  text-align: center;
+  z-index: 2; }
+  aside > :nth-child(1) {
+    margin-top: 80px; }
+    aside > :nth-child(1) a {
+      color: white; }
+  aside > :nth-child(2) {
+    font-size: 14px;
+    padding: 16px 0;
+    background-color: #DF147F;
+    margin-top: 1px; }
+    aside > :nth-child(2) a {
+      color: white; }
+    aside > :nth-child(2) p {
+      width: 14px;
+      line-height: 18px;
+      font-size: 14px;
+      margin: 6px auto; }
+    aside > :nth-child(2) .aside-shopbag-num {
+      display: inline-block;
+      width: 18px;
+      height: 18px;
+      border-radius: 50%;
+      background-color: #F6F7F9;
+      color: #FA2A83;
+      font-size: 12px; }
+  aside > :nth-child(3), aside > :nth-child(4), aside > :nth-child(5), aside > :nth-child(6), aside > :nth-child(7), aside > :nth-child(8) {
+    margin-top: 3px;
+    position: relative; }
+    aside > :nth-child(3):hover .aside-intro, aside > :nth-child(4):hover .aside-intro, aside > :nth-child(5):hover .aside-intro, aside > :nth-child(6):hover .aside-intro, aside > :nth-child(7):hover .aside-intro, aside > :nth-child(8):hover .aside-intro {
+      width: 100px;
+      border: 1px solid #ddd; }
+    aside > :nth-child(3) a, aside > :nth-child(4) a, aside > :nth-child(5) a, aside > :nth-child(6) a, aside > :nth-child(7) a, aside > :nth-child(8) a {
+      color: white; }
+  aside > :nth-child(7) {
+    margin-top: 120px; }
+  aside .aside-intro {
+    width: 0px;
+    height: 33px;
+    line-height: 33px;
+    border: none;
+    background-color: white;
+    position: absolute;
+    right: 36px;
+    top: 0;
+    color: black;
+    overflow: hidden;
+    transition: all 0.5s; }
+  aside div {
+    padding: 4px 0; }
+    aside div:hover {
+      background-color: #DF147F; }
+  aside .icon-wodezuji {
+    font-weight: bold; }
+  aside .iconfont {
+    font-size: 24px; }
+
+.nav-f {
+  width: 100%;
+  position: fixed;
+  top: 130px;
+  left: 0; }
+  .nav-f .head-nav {
+    width: 1000px;
+    margin: auto;
+    font-size: 16px;
+    text-align: center;
+    line-height: 44px;
+    color: #333; }
+    .nav-f .head-nav .classify {
+      width: 156px;
+      height: 44px;
+      background-color: #FA2A83;
+      cursor: pointer;
+      color: white;
+      margin-right: 10px; }
+      .nav-f .head-nav .classify .icon-2 {
+        font-size: 16px;
+        font-weight: bold;
+        margin: 4px; }
+    .nav-f .head-nav > :nth-child(2) {
+      color: #DF147F; }
+    .nav-f .head-nav > :nth-child(3) {
+      font-weight: bold; }
+    .nav-f .head-nav li {
+      padding: 0 10px;
+      cursor: pointer; }
+      .nav-f .head-nav li:hover {
+        color: #DF147F; }
+
+.banner {
+  width: 100%;
+  height: 442px;
+  padding-top: 30px;
+  position: relative;
+  background: url(../img/bgimg.jpg) no-repeat center; }
+  .banner .banner-c {
+    width: 1000px;
+    margin: auto;
+    width: 974px;
+    height: 378px;
+    padding: 12px;
+    margin: 0 auto;
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 1px 3px rgba(167, 167, 167, 0.4);
+    background-color: rgba(255, 255, 255, 0.8); }
+    .banner .banner-c .bannerimg {
+      width: 500%;
+      position: absolute;
+      top: 12px;
+      left: 0px; }
+    .banner .banner-c a {
+      margin: 0 12px; }
+    .banner .banner-c img {
+      width: 974px; }
+  .banner #leftandright {
+    width: 976px;
+    height: 352px;
+    position: absolute;
+    top: 30px;
+    left: 185px;
+    display: none; }
+    .banner #leftandright div {
+      width: 30px;
+      height: 50px;
+      line-height: 50px;
+      background-color: rgba(0, 0, 0, 0.8);
+      border-radius: 4px;
+      color: white;
+      opacity: 0.3;
+      text-align: center; }
+    .banner #leftandright #left {
+      position: absolute;
+      left: 2px;
+      top: 150px; }
+    .banner #leftandright #right {
+      position: absolute;
+      right: 0;
+      top: 150px; }
+  .banner .banner-index {
+    width: 976px;
+    position: absolute;
+    top: 384px;
+    left: 185px; }
+    .banner .banner-index div {
+      margin: 0 6px;
+      padding: 16px 60px; }
+    .banner .banner-index .active {
+      border-bottom: 2px solid #DF147F; }
+
+.adv-news {
+  width: 140px;
+  height: 170px;
+  background: white;
+  position: fixed;
+  right: 36px;
+  top: 290px;
+  text-align: center;
+  z-index: 2; }
+  .adv-news .grab {
+    margin-top: 14px; }
+  .adv-news .off {
+    position: absolute;
+    right: 4px;
+    top: 4px;
+    cursor: pointer; }
+  .adv-news > :nth-child(3) {
+    color: #FA2A83; }
+  .adv-news > :nth-child(5) {
+    width: 100px;
+    height: 28px;
+    text-align: center;
+    line-height: 28px;
+    font-size: 14px;
+    border-radius: 4px;
+    background: #FA2A83;
+    color: white;
+    margin: 16px auto 0;
+    cursor: pointer; }
+  .adv-news p {
+    line-height: 18px; }
+
+.rob {
+  width: 1000px;
+  margin: auto;
+  text-align: center; }
+  .rob .rob-img img {
+    width: 496px; }
+  .rob > :nth-child(3) {
+    margin-top: 40px; }

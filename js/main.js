@@ -13,5 +13,7 @@ require.config({
   }
 })
 require(['index'],function(index){
-  // index.download();
+  index.move();
+  index.off();
+  index.ceiling();
 })
