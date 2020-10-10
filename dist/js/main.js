@@ -16,4 +16,5 @@ require(['index'],function(index){
   index.move();
   index.off();
   index.ceiling();
+  index.footerlist();
 })

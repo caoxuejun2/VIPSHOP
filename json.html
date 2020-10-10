@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <script>
+    var arr = [{
+      id:0,
+      dt:"服务保障",
+      childs:[{
+        id:0,
+        dd:"正品保证"
+      },{
+        id:1,
+        dd:"7天无理由放心退"
+      },{
+        id:2,
+        dd:"7x15小时客户服务"
+      },{
+        id:3,
+        dd:"7天无理由随心换"
+      }]
+    },{id:1,
+      dt:"购物指南",
+      childs:[{
+        id:0,
+        dd:"导购演示"
+      },{
+        id:1,
+        dd:"订单操作"
+      },{
+        id:2,
+        dd:"会员注册"
+      },{
+        id:3,
+        dd:"账户管理"
+      },{
+        id:4,
+        dd:"收货样品"
+      },{
+        id:5,
+        dd:"会员等级"
+      }]
+    },{ id:2,
+      dt:"支付方式",
+      childs:[{
+        id:0,
+        dd:"23家主流网银支付"
+      },{
+        id:1,
+        dd:"支付宝、银联等支付"
+      },{
+        id:2,
+        dd:"信用卡支付"
+      },{
+        id:3,
+        dd:"零钱支付"
+      }]
+    },{ id:3,
+      dt:"配送方式",
+      childs:[{
+        id:0,
+        dd:"配送范围及运费"
+      },{
+        id:1,
+        dd:"验货与签收"
+      }]
+    },{ id:4,
+      dt:"售后服务",
+      childs:[{
+        id:0,
+        dd:"退货政策"
+      },{
+        id:1,
+        dd:"退货流程"
+      },{
+        id:2,
+        dd:"退款方式和时效"
+      },{
+        id:3,
+        dd:"换货服务"
+      }]}]
+    var str = JSON.stringify(arr);
+    console.log(str);
+  </script>
+</body>
+</html>

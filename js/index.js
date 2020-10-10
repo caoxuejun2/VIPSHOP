@@ -68,30 +68,49 @@ define(["jquery","jquery-cookie"],function($){
     })
   }
   function ceiling(){
-    var distance = document.body.scrollTop||document.documentElement.scrollTop;
-    if(distance>=174){
-      $(".nav-f").css("position","fixed");
-      $(".nav-f").css("top",0);
-    }
+    var timer = setInterval(function(){
+      var distance = document.body.scrollTop||document.documentElement.scrollTop;
+      if(distance>=174){
+        $(".nav-f").css("position","fixed");
+        $(".nav-f").css("top",0);
+      }else{
+        $(".nav-f").css("position","relative");
+        $(".nav-f").css("top",0);
+      }
+    },1)
+    $(".back").click(function(){
+      var timer1 = setInterval(function(){
+        document.documentElement.scrollTop -= 6
+        if(document.documentElement.scrollTop==0){
+          clearInterval(timer1)
+        }
+      },1)
+    })
   }
-  // function download(){
-  //   $.ajax({
-  //     url:"../data/data.json",
-  //     success:function(arr){
-  //       var str = ``;
-  //       for(var i=0;i<arr.length;i++){
-  //         str += ``
-  //       }
-  //       // $("").html(str)
-  //     },
-  //     error:function(msg){
-  //       console.log(msg)
-  //     }
-  //   })
-  // }
+  function footerlist(){
+    $.ajax({
+      url:"../data/footer.json",
+      success:function(arr){
+       for(var i=0;i<arr.length;i++){
+         var node = $(`<dl class="footerlist-dl fl">
+         <dt>${arr[i].dt}</dt>
+         <div></div></dl>`)
+         node.appendTo($(".footer-list"));
+         var childArr = arr[i].childs;
+         for(var j=0;j<childArr.length;j++){
+           $(`<a href="javascript:;"><dd>${childArr[j].dd}</dd></a>`).appendTo(node.find("div"));
+         }
+       }
+      },
+      error:function(msg){
+        console.log(msg)
+      }
+    })
+  }
   return{
     move,
     off,
     ceiling,
+    footerlist,
   }
 })

@@ -1,0 +1,2159 @@
+{
+	"code": 1,
+	"msg": "success",
+	"data": {
+		"products": [
+			{
+				"productId": "6918943267905733402",
+				"brandId": "1710614426",
+				"subjectId": "",
+				"brandStoreSn": "10000683",
+				"categoryId": "390559",
+				"spuId": "2386421770586365952",
+				"skuId": "2386421770586374144",
+				"status": "0",
+				"title": "2020冬季新款圆领宽松仿羊绒菠萝针长袖温暖毛衣针织衫毛衫",
+				"smallImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/1088358736-2386421770586365952-2386421770586370050-50_420_531.jpg",
+				"squareImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/407753255-2386421770586365952-2386421770586370050-1.jpg",
+				"icon": "http://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/160/1567393657900.png",
+				"price": {
+					"priceType": "special",
+					"priceLabelType": "text",
+					"priceLabel": "特卖价",
+					"salePrice": "128",
+					"salePriceSuff": "",
+					"saleDiscount": "3.3折",
+					"marketPrice": "399"
+				},
+				"attrs": [
+					{
+						"name": "弹性",
+						"value": "微弹"
+					},
+					{
+						"name": "版型",
+						"value": "宽松"
+					},
+					{
+						"name": "衣长",
+						"value": "常规"
+					},
+					{
+						"name": "厚薄",
+						"value": "常规"
+					}
+				],
+				"flags": 48
+			},
+			{
+				"productId": "6918859260954815578",
+				"brandId": "1710614426",
+				"subjectId": "",
+				"brandStoreSn": "10000683",
+				"categoryId": "314",
+				"spuId": "2534477588102385664",
+				"skuId": "2534477588102385665",
+				"status": "0",
+				"title": "2020秋季新款V领短款打底衫棉弹修身长袖套头T恤衫上衣",
+				"smallImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2020/08/20/179/e7ee014b-0fc2-4fe8-986f-c385911d17de_420_531.jpg",
+				"squareImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2020/08/20/54/86452470-4419-4d4c-a072-d1c5cd1bf9df.jpg",
+				"icon": "http://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/160/1567393657900.png",
+				"sizeLabel": {
+					"bizType": "sizeTight",
+					"value": "剩S码",
+					"list": [
+						"S"
+					]
+				},
+				"price": {
+					"priceType": "special",
+					"priceLabelType": "text",
+					"priceLabel": "特卖价",
+					"salePrice": "78",
+					"salePriceSuff": "",
+					"saleDiscount": "3.3折",
+					"marketPrice": "239"
+				},
+				"attrs": [
+					{
+						"name": "弹性",
+						"value": "高弹"
+					},
+					{
+						"name": "版型",
+						"value": "修身"
+					},
+					{
+						"name": "衣长",
+						"value": "短"
+					},
+					{
+						"name": "厚薄",
+						"value": "常规"
+					}
+				],
+				"flags": 48
+			},
+			{
+				"productId": "6918960589505545882",
+				"brandId": "1710614426",
+				"subjectId": "",
+				"brandStoreSn": "10000683",
+				"categoryId": "390559",
+				"spuId": "1392815106243850240",
+				"skuId": "1392815106243850241",
+				"status": "0",
+				"title": "2020冬季新款 复古灯笼袖高领毛衣宽松针织衫保暖毛衫",
+				"smallImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/303447690-1392815106243850240-1392815106243850242-50_420_531.jpg",
+				"squareImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/2120201348-1392815106243850240-1392815106243850242-1.jpg",
+				"icon": "http://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/160/1567393657900.png",
+				"price": {
+					"priceType": "special",
+					"priceLabelType": "text",
+					"priceLabel": "特卖价",
+					"salePrice": "169",
+					"salePriceSuff": "",
+					"saleDiscount": "3.2折",
+					"marketPrice": "539"
+				},
+				"attrs": [
+					{
+						"name": "弹性",
+						"value": "微弹"
+					},
+					{
+						"name": "版型",
+						"value": "宽松"
+					},
+					{
+						"name": "衣长",
+						"value": "常规"
+					},
+					{
+						"name": "厚薄",
+						"value": "常规"
+					}
+				],
+				"flags": 48
+			},
+			{
+				"productId": "6918905186496270938",
+				"brandId": "1710614426",
+				"subjectId": "",
+				"brandStoreSn": "10000683",
+				"categoryId": "390558",
+				"spuId": "2258350646611550208",
+				"skuId": "2258350646611550209",
+				"status": "0",
+				"title": "2020秋季新款花边娃娃领直筒长袖领带针织衫毛衫毛衣",
+				"smallImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2020/08/20/30/6e38a2b6-2405-4ae5-980e-32d7542da7ea_420_531.jpg",
+				"squareImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2020/08/20/132/a026320a-88f4-46bf-9531-61e4df395c79.jpg",
+				"icon": "http://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/160/1567393657900.png",
+				"price": {
+					"priceType": "crazy",
+					"priceLabelType": "text",
+					"priceLabel": "特卖价",
+					"salePrice": "199",
+					"salePriceSuff": "",
+					"saleDiscount": "3.0折",
+					"marketPrice": "669"
+				},
+				"attrs": [
+					{
+						"name": "弹性",
+						"value": "微弹"
+					},
+					{
+						"name": "版型",
+						"value": "直筒"
+					},
+					{
+						"name": "衣长",
+						"value": "常规"
+					},
+					{
+						"name": "厚薄",
+						"value": "常规"
+					}
+				],
+				"flags": 32
+			},
+			{
+				"productId": "6918850485381138650",
+				"brandId": "1710614426",
+				"subjectId": "",
+				"brandStoreSn": "10000683",
+				"categoryId": "322",
+				"spuId": "507013328760320000",
+				"skuId": "507013328760320003",
+				"status": "0",
+				"title": "2020秋季新款西装领腰带赫本风连衣裙式中长风衣外套",
+				"smallImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2020/06/30/170/13d448b8-b24e-4bf2-8c08-d96e95149634_420_531.jpg",
+				"squareImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2020/06/30/141/76b91eb7-56e7-428e-9c79-d275d0a8513b.jpg",
+				"icon": "http://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/160/1567393657900.png",
+				"sizeLabel": {
+					"bizType": "sizeTight",
+					"value": "剩L/XL码",
+					"list": [
+						"L",
+						"XL"
+					]
+				},
+				"price": {
+					"priceType": "special",
+					"priceLabelType": "text",
+					"priceLabel": "特卖价",
+					"salePrice": "398",
+					"salePriceSuff": "",
+					"saleDiscount": "3.1折",
+					"marketPrice": "1299"
+				},
+				"attrs": [
+					{
+						"name": "弹性",
+						"value": "无弹"
+					},
+					{
+						"name": "版型",
+						"value": "宽松"
+					},
+					{
+						"name": "衣长",
+						"value": "长"
+					},
+					{
+						"name": "厚薄",
+						"value": "常规"
+					}
+				],
+				"flags": 32
+			},
+			{
+				"productId": "6918970709000640986",
+				"brandId": "1710614426",
+				"subjectId": "",
+				"brandStoreSn": "10000683",
+				"categoryId": "390558",
+				"spuId": "1156657604325486592",
+				"skuId": "1156657604325490689",
+				"status": "0",
+				"title": "【演员请就位任敏同款】玻尿酸黑科技-秋冬新款高领德绒打底衫",
+				"smallImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/1703657378-1156657604325486592-1156657604325486602-50_420_531.jpg",
+				"squareImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/580175266-1156657604325486592-1156657604325486602-1.jpg",
+				"price": {
+					"priceType": "special",
+					"priceLabelType": "text",
+					"priceLabel": "特卖价",
+					"salePrice": "158",
+					"salePriceSuff": "",
+					"saleDiscount": "3.2折",
+					"marketPrice": "499"
+				},
+				"attrs": [
+					{
+						"name": "弹性",
+						"value": "高弹"
+					},
+					{
+						"name": "版型",
+						"value": "修身"
+					},
+					{
+						"name": "衣长",
+						"value": "常规"
+					},
+					{
+						"name": "厚薄",
+						"value": "加厚"
+					}
+				],
+				"flags": 32
+			},
+			{
+				"productId": "6918963573228897946",
+				"brandId": "1710614426",
+				"subjectId": "",
+				"brandStoreSn": "10000683",
+				"categoryId": "390563",
+				"spuId": "1542278320707465216",
+				"skuId": "1542278320707469312",
+				"status": "0",
+				"title": "2020冬季新款A字摆法式优雅针织裙伞裙半身裙小黑裙",
+				"smallImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/1905168883-1542278320707465216-1542278320707465218-50_420_531.jpg",
+				"squareImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/26840076-1542278320707465216-1542278320707465218-1.jpg",
+				"icon": "http://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/160/1567393657900.png",
+				"price": {
+					"priceType": "special",
+					"priceLabelType": "text",
+					"priceLabel": "特卖价",
+					"salePrice": "194",
+					"salePriceSuff": "",
+					"saleDiscount": "3.1折",
+					"marketPrice": "639"
+				},
+				"attrs": [
+					{
+						"name": "弹性",
+						"value": "高弹"
+					},
+					{
+						"name": "版型",
+						"value": "常规"
+					},
+					{
+						"name": "裙长",
+						"value": "中长裙"
+					},
+					{
+						"name": "厚薄",
+						"value": "常规"
+					}
+				],
+				"flags": 32
+			},
+			{
+				"productId": "6918983870937298778",
+				"brandId": "1710614426",
+				"subjectId": "",
+				"brandStoreSn": "10000683",
+				"categoryId": "316",
+				"spuId": "1758169632752119808",
+				"skuId": "1758169632752119809",
+				"status": "0",
+				"title": "2020冬季新款华丽银丝翻领宽松毛呢大衣中长款外套女",
+				"smallImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/65570811-1758169632752119808-1758169632752119810-50_420_531.jpg",
+				"squareImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/1554744725-1758169632752119808-1758169632752119810-1.jpg",
+				"icon": "http://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/115/1567393701102.png",
+				"sizeLabel": {
+					"bizType": "sizeTight",
+					"value": "剩L/XL码",
+					"list": [
+						"L",
+						"XL"
+					]
+				},
+				"price": {
+					"priceType": "special",
+					"priceLabelType": "text",
+					"priceLabel": "特卖价",
+					"salePrice": "411",
+					"salePriceSuff": "",
+					"saleDiscount": "3.3折",
+					"marketPrice": "1269"
+				},
+				"attrs": [
+					{
+						"name": "弹性",
+						"value": "无弹"
+					},
+					{
+						"name": "版型",
+						"value": "宽松"
+					},
+					{
+						"name": "衣长",
+						"value": "中长"
+					},
+					{
+						"name": "厚薄",
+						"value": "常规"
+					}
+				],
+				"flags": 32
+			},
+			{
+				"productId": "6918979580158236506",
+				"brandId": "1710614426",
+				"subjectId": "",
+				"brandStoreSn": "10000683",
+				"categoryId": "390557",
+				"spuId": "672520645433909248",
+				"skuId": "672520645433913344",
+				"status": "0",
+				"title": "2020冬季新款原创公主绣花卫衣加绒卫衣袋鼠兜连帽衫",
+				"smallImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/567269054-672520645433909248-672520645433909257-50_420_531.jpg",
+				"squareImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/1529673748-672520645433909248-672520645433909257-1.jpg",
+				"icon": "http://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/115/1567393701102.png",
+				"price": {
+					"priceType": "special",
+					"priceLabelType": "text",
+					"priceLabel": "特卖价",
+					"salePrice": "246",
+					"salePriceSuff": "",
+					"saleDiscount": "3.2折",
+					"marketPrice": "769"
+				},
+				"attrs": [
+					{
+						"name": "弹性",
+						"value": "微弹"
+					},
+					{
+						"name": "版型",
+						"value": "宽松"
+					},
+					{
+						"name": "衣长",
+						"value": "常规"
+					},
+					{
+						"name": "厚薄",
+						"value": "加绒加厚"
+					}
+				],
+				"flags": 48
+			},
+			{
+				"productId": "6918970708899490266",
+				"brandId": "1710614426",
+				"subjectId": "",
+				"brandStoreSn": "10000683",
+				"categoryId": "390564",
+				"spuId": "597648298852786176",
+				"skuId": "597648298852786177",
+				"status": "0",
+				"title": "2020冬季新款高腰弹力打底裤精梳棉磨毛连裤袜",
+				"smallImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/1854217554-597648298852786176-597648298852786178-50_5t.jpg",
+				"squareImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/373124477-597648298852786176-597648298852786178-1.jpg",
+				"icon": "http://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/160/1567393657900.png",
+				"price": {
+					"priceType": "special",
+					"priceLabelType": "text",
+					"priceLabel": "特卖价",
+					"salePrice": "62",
+					"salePriceSuff": "",
+					"saleDiscount": "3.2折",
+					"marketPrice": "199"
+				},
+				"attrs": [
+					{
+						"name": "弹性",
+						"value": "高弹"
+					},
+					{
+						"name": "版型",
+						"value": "修身"
+					},
+					{
+						"name": "厚薄",
+						"value": "常规"
+					},
+					{
+						"name": "裤长",
+						"value": "长裤"
+					}
+				],
+				"flags": 48
+			},
+			{
+				"productId": "6918976746755475290",
+				"brandId": "1710614426",
+				"subjectId": "",
+				"brandStoreSn": "10000683",
+				"categoryId": "390561",
+				"spuId": "1675415986395426816",
+				"skuId": "1675415986395426817",
+				"status": "0",
+				"title": "2020冬季新款黑科技火山岩发热棉服宽松短款保暖棉衣外套",
+				"smallImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/1012123519-1675415986395426816-1675415986395426818-50_5t.jpg",
+				"squareImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/25411156-1675415986395426816-1675415986395426818-1.jpg",
+				"icon": "http://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/160/1567393657900.png",
+				"price": {
+					"priceType": "special",
+					"priceLabelType": "text",
+					"priceLabel": "特卖价",
+					"salePrice": "448",
+					"salePriceSuff": "",
+					"saleDiscount": "3.6折",
+					"marketPrice": "1269"
+				},
+				"attrs": [
+					{
+						"name": "弹性",
+						"value": "无弹"
+					},
+					{
+						"name": "版型",
+						"value": "宽松"
+					},
+					{
+						"name": "衣长",
+						"value": "短"
+					},
+					{
+						"name": "厚薄",
+						"value": "厚"
+					}
+				],
+				"flags": 32
+			},
+			{
+				"productId": "6918944816250147610",
+				"brandId": "1710614426",
+				"subjectId": "",
+				"brandStoreSn": "10000683",
+				"categoryId": "390562",
+				"spuId": "2396273394771156992",
+				"skuId": "2396273394771161088",
+				"status": "0",
+				"title": "2020冬季新款立领白鸭绒腰带宽松灯笼袖长袖羽绒服面包服",
+				"smallImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/989518477-2396273394771156992-2396273394771161089-50_420_531.jpg",
+				"squareImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/199598336-2396273394771156992-2396273394771161089-1.jpg",
+				"icon": "http://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/160/1567393657900.png",
+				"price": {
+					"priceType": "crazy",
+					"priceLabelType": "text",
+					"priceLabel": "特卖价",
+					"salePrice": "385",
+					"salePriceSuff": "",
+					"saleDiscount": "2.7折",
+					"marketPrice": "1469"
+				},
+				"attrs": [
+					{
+						"name": "弹性",
+						"value": "无弹"
+					},
+					{
+						"name": "版型",
+						"value": "宽松"
+					},
+					{
+						"name": "衣长",
+						"value": "短"
+					},
+					{
+						"name": "厚薄",
+						"value": "常规"
+					}
+				],
+				"flags": 48
+			},
+			{
+				"productId": "6918983870987904858",
+				"brandId": "1710614426",
+				"subjectId": "",
+				"brandStoreSn": "10000683",
+				"categoryId": "390566",
+				"spuId": "1084600013485969408",
+				"skuId": "1084600013485973504",
+				"status": "0",
+				"title": "2020冬季新款黑科技三防牛仔裤小白裤高腰老爹裤长裤女",
+				"smallImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/316176718-1084600013485969408-1084600013485969410-50_420_531.jpg",
+				"squareImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/819617359-1084600013485969408-1084600013485969410-1.jpg",
+				"icon": "http://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/115/1567393701102.png",
+				"price": {
+					"priceType": "special",
+					"priceLabelType": "text",
+					"priceLabel": "特卖价",
+					"salePrice": "201",
+					"salePriceSuff": "",
+					"saleDiscount": "3.2折",
+					"marketPrice": "639"
+				},
+				"attrs": [
+					{
+						"name": "弹性",
+						"value": "微弹"
+					},
+					{
+						"name": "版型",
+						"value": "常规"
+					},
+					{
+						"name": "厚薄",
+						"value": "常规"
+					},
+					{
+						"name": "裤长",
+						"value": "长裤"
+					}
+				],
+				"flags": 32
+			},
+			{
+				"productId": "6918915663016858074",
+				"brandId": "1710614426",
+				"subjectId": "",
+				"brandStoreSn": "10000683",
+				"categoryId": "390558",
+				"spuId": "221034768296816648",
+				"skuId": "221034768296824832",
+				"status": "0",
+				"title": "【演员请就位任敏同款】秋冬新款高领德绒发热修身长袖打底衫",
+				"smallImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2020/08/20/56/72dae9f2-44a5-4448-9350-4c3cbcd97d9d_420_531.jpg",
+				"squareImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2020/08/20/150/e3aa6e88-7615-4b2c-97e2-23e6743aaa88.jpg",
+				"icon": "http://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/160/1567393657900.png",
+				"price": {
+					"priceType": "special",
+					"priceLabelType": "text",
+					"priceLabel": "特卖价",
+					"salePrice": "112",
+					"salePriceSuff": "",
+					"saleDiscount": "3.1折",
+					"marketPrice": "369"
+				},
+				"attrs": [
+					{
+						"name": "弹性",
+						"value": "高弹"
+					},
+					{
+						"name": "版型",
+						"value": "修身"
+					},
+					{
+						"name": "衣长",
+						"value": "常规"
+					},
+					{
+						"name": "厚薄",
+						"value": "常规"
+					}
+				],
+				"flags": 48
+			},
+			{
+				"productId": "6918960589590046362",
+				"brandId": "1710614426",
+				"subjectId": "",
+				"brandStoreSn": "10000683",
+				"categoryId": "390558",
+				"spuId": "3257868301746348032",
+				"skuId": "3257868301746352128",
+				"status": "0",
+				"title": "2020冬季新款半高领修身坑条针织衫长袖打底毛衫毛衣",
+				"smallImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/1972692190-3257868301746348032-3257868301746348041-50_420_531.jpg",
+				"squareImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/410457822-3257868301746348032-3257868301746348041-1.jpg",
+				"icon": "http://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/160/1567393657900.png",
+				"price": {
+					"priceType": "special",
+					"priceLabelType": "text",
+					"priceLabel": "特卖价",
+					"salePrice": "169",
+					"salePriceSuff": "",
+					"saleDiscount": "4.3折",
+					"marketPrice": "399"
+				},
+				"attrs": [
+					{
+						"name": "弹性",
+						"value": "高弹"
+					},
+					{
+						"name": "版型",
+						"value": "修身"
+					},
+					{
+						"name": "衣长",
+						"value": "常规"
+					},
+					{
+						"name": "厚薄",
+						"value": "常规"
+					}
+				],
+				"flags": 48
+			},
+			{
+				"productId": "6918905186479399514",
+				"brandId": "1710614426",
+				"subjectId": "",
+				"brandStoreSn": "10000683",
+				"categoryId": "390556",
+				"spuId": "91837748012294148",
+				"skuId": "91837748012298240",
+				"status": "0",
+				"title": "2020秋季新款花边圆领抽皱长袖直筒衬衫上衣",
+				"smallImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/374530501-91837748012294148-91837748012294150-50_420_531.jpg",
+				"squareImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/1928976488-91837748012294148-91837748012294150-1.jpg",
+				"icon": "http://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/160/1567393657900.png",
+				"price": {
+					"priceType": "special",
+					"priceLabelType": "text",
+					"priceLabel": "特卖价",
+					"salePrice": "113",
+					"salePriceSuff": "",
+					"saleDiscount": "3.1折",
+					"marketPrice": "369"
+				},
+				"attrs": [
+					{
+						"name": "弹性",
+						"value": "无弹"
+					},
+					{
+						"name": "版型",
+						"value": "直筒"
+					},
+					{
+						"name": "衣长",
+						"value": "常规"
+					},
+					{
+						"name": "厚薄",
+						"value": "常规"
+					}
+				],
+				"flags": 32
+			},
+			{
+				"productId": "6918464520499355802",
+				"brandId": "1710614426",
+				"subjectId": "",
+				"brandStoreSn": "10000683",
+				"categoryId": "390562",
+				"spuId": "730785837960962048",
+				"skuId": "730785837960962049",
+				"status": "0",
+				"title": "2019冬季新款刺绣连帽白鸭绒中长款宽松羽绒服外套大衣",
+				"smallImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/606260302-730785837960962048-730785837960962050-50_420_531.jpg",
+				"squareImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/383313869-730785837960962048-730785837960962050-1.jpg",
+				"stockLabel": {
+					"bizType": "stock",
+					"value": "剩5件"
+				},
+				"price": {
+					"priceType": "crazy",
+					"priceLabelType": "text",
+					"priceLabel": "特卖价",
+					"salePrice": "295",
+					"salePriceSuff": "",
+					"saleDiscount": "1.0折",
+					"marketPrice": "3239"
+				},
+				"attrs": [
+					{
+						"name": "弹性",
+						"value": "无弹"
+					},
+					{
+						"name": "版型",
+						"value": "宽松"
+					},
+					{
+						"name": "衣长",
+						"value": "中长"
+					},
+					{
+						"name": "厚薄",
+						"value": "常规"
+					}
+				],
+				"flags": 32
+			},
+			{
+				"productId": "6918944816149168922",
+				"brandId": "1710614426",
+				"subjectId": "",
+				"brandStoreSn": "10000683",
+				"categoryId": "327",
+				"spuId": "2018533976025485312",
+				"skuId": "2018533976025485313",
+				"status": "0",
+				"title": "2020冬季新款翻领单排扣宽松长袖环保皮草毛毛大衣外套",
+				"smallImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/521279065-2018533976025485312-2018533976025485314-50_420_531.jpg",
+				"squareImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/1028747540-2018533976025485312-2018533976025485314-1.jpg",
+				"icon": "http://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/160/1567393657900.png",
+				"price": {
+					"priceType": "special",
+					"priceLabelType": "text",
+					"priceLabel": "特卖价",
+					"salePrice": "372",
+					"salePriceSuff": "",
+					"saleDiscount": "3.2折",
+					"marketPrice": "1199"
+				},
+				"attrs": [
+					{
+						"name": "弹性",
+						"value": "无弹"
+					},
+					{
+						"name": "版型",
+						"value": "宽松"
+					},
+					{
+						"name": "衣长",
+						"value": "短"
+					},
+					{
+						"name": "厚薄",
+						"value": "厚"
+					}
+				],
+				"flags": 32
+			},
+			{
+				"productId": "6918976746704967514",
+				"brandId": "1710614426",
+				"subjectId": "",
+				"brandStoreSn": "10000683",
+				"categoryId": "390560",
+				"spuId": "805658308464320512",
+				"skuId": "805658308464324608",
+				"status": "0",
+				"title": "2020冬季新款圈圈毛皮草环保皮草外套颗粒绒保暖大衣",
+				"smallImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/568322576-805658308464320512-805658308464324609-50_420_531.jpg",
+				"squareImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/1361593231-805658308464320512-805658308464324609-1.jpg",
+				"icon": "http://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/160/1567393657900.png",
+				"price": {
+					"priceType": "special",
+					"priceLabelType": "text",
+					"priceLabel": "特卖价",
+					"salePrice": "373",
+					"salePriceSuff": "",
+					"saleDiscount": "3.3折",
+					"marketPrice": "1139"
+				},
+				"attrs": [
+					{
+						"name": "弹性",
+						"value": "高弹"
+					},
+					{
+						"name": "版型",
+						"value": "宽松"
+					},
+					{
+						"name": "衣长",
+						"value": "短"
+					},
+					{
+						"name": "厚薄",
+						"value": "厚"
+					}
+				],
+				"flags": 32
+			},
+			{
+				"productId": "6918960589471794842",
+				"brandId": "1710614426",
+				"subjectId": "",
+				"brandStoreSn": "10000683",
+				"categoryId": "390565",
+				"spuId": "3273349425465020416",
+				"skuId": "3273349425465024512",
+				"status": "0",
+				"title": "2020冬新款高腰直筒裤休闲显瘦直筒裤长裤",
+				"smallImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/1190233573-3273349425465020416-3273349425465024513-50_5t.jpg",
+				"squareImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/1105726733-3273349425465020416-3273349425465024513-1.jpg",
+				"icon": "http://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/160/1567393657900.png",
+				"price": {
+					"priceType": "special",
+					"priceLabelType": "text",
+					"priceLabel": "特卖价",
+					"salePrice": "214",
+					"salePriceSuff": "",
+					"saleDiscount": "3.4折",
+					"marketPrice": "639"
+				},
+				"attrs": [
+					{
+						"name": "弹性",
+						"value": "微弹"
+					},
+					{
+						"name": "版型",
+						"value": "直筒"
+					},
+					{
+						"name": "厚薄",
+						"value": "常规"
+					},
+					{
+						"name": "裤长",
+						"value": "长裤"
+					}
+				],
+				"flags": 32
+			},
+			{
+				"productId": "6918920134270169562",
+				"brandId": "1710614426",
+				"subjectId": "",
+				"brandStoreSn": "10000683",
+				"categoryId": "390558",
+				"spuId": "1620246877968097280",
+				"skuId": "1620246877968117760",
+				"status": "0",
+				"title": "2020冬季新款半高领修身长袖打底衫针织衫毛衫上衣",
+				"smallImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2020/08/24/21/9fc0f0d9-0301-4d8f-99f4-e67ab734677e_420_531.jpg",
+				"squareImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2020/08/24/106/30492d9b-fc15-4f0a-bead-4537f6387ea2.jpg",
+				"icon": "http://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/160/1567393657900.png",
+				"price": {
+					"priceType": "crazy",
+					"priceLabelType": "text",
+					"priceLabel": "特卖价",
+					"salePrice": "133",
+					"salePriceSuff": "",
+					"saleDiscount": "2.9折",
+					"marketPrice": "469"
+				},
+				"attrs": [
+					{
+						"name": "弹性",
+						"value": "高弹"
+					},
+					{
+						"name": "版型",
+						"value": "修身"
+					},
+					{
+						"name": "衣长",
+						"value": "常规"
+					},
+					{
+						"name": "厚薄",
+						"value": "常规"
+					}
+				],
+				"flags": 48
+			},
+			{
+				"productId": "6918970708933229018",
+				"brandId": "1710614426",
+				"subjectId": "",
+				"brandStoreSn": "10000683",
+				"categoryId": "390559",
+				"spuId": "1108806856559337472",
+				"skuId": "1108806856559337473",
+				"status": "0",
+				"title": "2020冬季新款花纱针织衫仿貂毛毛衣珍珠拉毛套头衫",
+				"smallImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/92437016-1108806856559337472-1108806856559337474-50_420_531.jpg",
+				"squareImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/816503798-1108806856559337472-1108806856559337474-1.jpg",
+				"icon": "http://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/160/1567393657900.png",
+				"price": {
+					"priceType": "special",
+					"priceLabelType": "text",
+					"priceLabel": "特卖价",
+					"salePrice": "268",
+					"salePriceSuff": "",
+					"saleDiscount": "3.2折",
+					"marketPrice": "839"
+				},
+				"attrs": [
+					{
+						"name": "弹性",
+						"value": "微弹"
+					},
+					{
+						"name": "版型",
+						"value": "宽松"
+					},
+					{
+						"name": "衣长",
+						"value": "常规"
+					},
+					{
+						"name": "厚薄",
+						"value": "常规"
+					}
+				],
+				"flags": 32
+			},
+			{
+				"productId": "6918983870971017050",
+				"brandId": "1710614426",
+				"subjectId": "",
+				"brandStoreSn": "10000683",
+				"categoryId": "390566",
+				"spuId": "375001597198409728",
+				"skuId": "375001597198413824",
+				"status": "0",
+				"title": "2020冬季新款高腰休闲牛仔老爹裤加绒长裤女",
+				"smallImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/1427331542-375001597198409728-375001597198409730-50_420_531.jpg",
+				"squareImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/910802848-375001597198409728-375001597198409730-1.jpg",
+				"icon": "http://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/115/1567393701102.png",
+				"price": {
+					"priceType": "special",
+					"priceLabelType": "text",
+					"priceLabel": "特卖价",
+					"salePrice": "223",
+					"salePriceSuff": "",
+					"saleDiscount": "3.8折",
+					"marketPrice": "599"
+				},
+				"attrs": [
+					{
+						"name": "弹性",
+						"value": "微弹"
+					},
+					{
+						"name": "版型",
+						"value": "直筒"
+					},
+					{
+						"name": "厚薄",
+						"value": "常规"
+					},
+					{
+						"name": "裤长",
+						"value": "长裤"
+					}
+				],
+				"flags": 32
+			},
+			{
+				"productId": "6918944816570028826",
+				"brandId": "1710614426",
+				"subjectId": "",
+				"brandStoreSn": "10000683",
+				"categoryId": "316",
+				"spuId": "1816716417623531520",
+				"skuId": "1816716417623539712",
+				"status": "0",
+				"title": "2020冬季新款翻驳领一颗扣宽松中长款羊毛呢双面呢大衣",
+				"smallImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/494026471-1816716417623531520-1816716417623535624-50_5t.jpg",
+				"squareImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/975176337-1816716417623531520-1816716417623535624-1.jpg",
+				"icon": "http://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/160/1567393657900.png",
+				"price": {
+					"priceType": "special",
+					"priceLabelType": "text",
+					"priceLabel": "特卖价",
+					"salePrice": "544",
+					"salePriceSuff": "",
+					"saleDiscount": "3.1折",
+					"marketPrice": "1799"
+				},
+				"attrs": [
+					{
+						"name": "弹性",
+						"value": "无弹"
+					},
+					{
+						"name": "版型",
+						"value": "宽松"
+					},
+					{
+						"name": "衣长",
+						"value": "中长"
+					},
+					{
+						"name": "厚薄",
+						"value": "常规"
+					}
+				],
+				"flags": 48
+			},
+			{
+				"productId": "6918970708933138906",
+				"brandId": "1710614426",
+				"subjectId": "",
+				"brandStoreSn": "10000683",
+				"categoryId": "390566",
+				"spuId": "2553617913741438976",
+				"skuId": "2553617913741438977",
+				"status": "0",
+				"title": "2020冬季新款高腰修身棉弹水洗牛仔裤小脚裤铅笔裤长裤",
+				"smallImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/2141610540-2553617913741438976-2553617913741438978-50_5t.jpg",
+				"squareImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/1901127154-2553617913741438976-2553617913741438978-1.jpg",
+				"icon": "http://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/115/1567393701102.png",
+				"price": {
+					"priceType": "special",
+					"priceLabelType": "text",
+					"priceLabel": "特卖价",
+					"salePrice": "171",
+					"salePriceSuff": "",
+					"saleDiscount": "3.2折",
+					"marketPrice": "539"
+				},
+				"attrs": [
+					{
+						"name": "弹性",
+						"value": "微弹"
+					},
+					{
+						"name": "版型",
+						"value": "修身"
+					},
+					{
+						"name": "厚薄",
+						"value": "加厚"
+					},
+					{
+						"name": "裤长",
+						"value": "长裤"
+					}
+				],
+				"flags": 32
+			},
+			{
+				"productId": "6918930256714891738",
+				"brandId": "1710614426",
+				"subjectId": "",
+				"brandStoreSn": "10000683",
+				"categoryId": "391033",
+				"spuId": "1253766460319481856",
+				"skuId": "1253766460319485952",
+				"status": "0",
+				"title": "2020冬季新款V领单排扣条纹针织长袖连衣裙伞裙毛衫裙",
+				"smallImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2020/09/01/149/4dd48ccc-5d7a-4eb8-8bd0-f10854b1ed3c_420_531.jpg",
+				"squareImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2020/09/01/143/f1b8a27b-aaec-4eb2-8d43-d66f23f9e324.jpg",
+				"icon": "http://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/160/1567393657900.png",
+				"price": {
+					"priceType": "crazy",
+					"priceLabelType": "text",
+					"priceLabel": "特卖价",
+					"salePrice": "172",
+					"salePriceSuff": "",
+					"saleDiscount": "2.7折",
+					"marketPrice": "639"
+				},
+				"attrs": [
+					{
+						"name": "弹性",
+						"value": "微弹"
+					},
+					{
+						"name": "版型",
+						"value": "收腰"
+					},
+					{
+						"name": "裙长",
+						"value": "短裙"
+					},
+					{
+						"name": "厚薄",
+						"value": "常规"
+					}
+				],
+				"flags": 48
+			},
+			{
+				"productId": "6918934536256791002",
+				"brandId": "1710614426",
+				"subjectId": "",
+				"brandStoreSn": "10000683",
+				"categoryId": "391033",
+				"spuId": "2385295868481720323",
+				"skuId": "2385295868481724416",
+				"status": "0",
+				"title": "2020冬季新款圆领拼接绑带灯笼袖长袖针织裙毛衫连衣裙女",
+				"smallImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/32456504-2385295868481720323-2385295868481720327-50_420_531.jpg",
+				"squareImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/203025147-2385295868481720323-2385295868481720327-1.jpg",
+				"icon": "http://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/160/1567393657900.png",
+				"price": {
+					"priceType": "crazy",
+					"priceLabelType": "text",
+					"priceLabel": "特卖价",
+					"salePrice": "234",
+					"salePriceSuff": "",
+					"saleDiscount": "2.8折",
+					"marketPrice": "839"
+				},
+				"attrs": [
+					{
+						"name": "弹性",
+						"value": "微弹"
+					},
+					{
+						"name": "版型",
+						"value": "收腰"
+					},
+					{
+						"name": "裙长",
+						"value": "中长裙"
+					},
+					{
+						"name": "厚薄",
+						"value": "常规"
+					}
+				],
+				"flags": 32
+			},
+			{
+				"productId": "6918920134438916570",
+				"brandId": "1710614426",
+				"subjectId": "",
+				"brandStoreSn": "10000683",
+				"categoryId": "390562",
+				"spuId": "2526033351921377280",
+				"skuId": "2526033351921377281",
+				"status": "0",
+				"title": "2020冬季新款立领白鸭绒直筒短款长袖轻薄羽绒服外套",
+				"smallImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2020/09/01/147/2931be8b-604b-4038-9fe7-61027c4abdfc_420_531.jpg",
+				"squareImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2020/09/01/23/20ba54fd-1aa0-48b9-b423-18106791125e.jpg",
+				"icon": "http://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/160/1567393657900.png",
+				"price": {
+					"priceType": "special",
+					"priceLabelType": "text",
+					"priceLabel": "特卖价",
+					"salePrice": "276",
+					"salePriceSuff": "",
+					"saleDiscount": "3.6折",
+					"marketPrice": "769"
+				},
+				"attrs": [
+					{
+						"name": "弹性",
+						"value": "无弹"
+					},
+					{
+						"name": "版型",
+						"value": "直筒"
+					},
+					{
+						"name": "衣长",
+						"value": "短"
+					},
+					{
+						"name": "厚薄",
+						"value": "常规"
+					}
+				],
+				"flags": 48
+			},
+			{
+				"productId": "6918934536307536346",
+				"brandId": "1710614426",
+				"subjectId": "",
+				"brandStoreSn": "10000683",
+				"categoryId": "390558",
+				"spuId": "250871117640863744",
+				"skuId": "250871117640871936",
+				"status": "0",
+				"title": "2020冬季新款高领长袖针织衫打底衫毛衫",
+				"smallImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/104832/2020/0825/60/99fc5aee-55f5-4ff8-88fb-4a04c7c98cda_420_531.jpg",
+				"squareImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/104832/2020/0825/124/a33d5db8-21ab-46e1-b2c0-9692869bf125.jpg",
+				"icon": "http://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/160/1567393657900.png",
+				"price": {
+					"priceType": "crazy",
+					"priceLabelType": "text",
+					"priceLabel": "特卖价",
+					"salePrice": "106",
+					"salePriceSuff": "",
+					"saleDiscount": "2.7折",
+					"marketPrice": "399"
+				},
+				"attrs": [
+					{
+						"name": "弹性",
+						"value": "高弹"
+					},
+					{
+						"name": "版型",
+						"value": "直筒"
+					},
+					{
+						"name": "衣长",
+						"value": "常规"
+					},
+					{
+						"name": "厚薄",
+						"value": "薄"
+					}
+				],
+				"flags": 48
+			},
+			{
+				"productId": "6918426973107995738",
+				"brandId": "1710614426",
+				"subjectId": "",
+				"brandStoreSn": "10000683",
+				"categoryId": "316",
+				"spuId": "1449672920586084352",
+				"skuId": "1449672920586088448",
+				"status": "0",
+				"title": "2019冬季新款宽松长款单排扣灯笼袖双面呢羊毛呢外套大衣",
+				"smallImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/1792693168-1449672920586084352-1449672920586084354-50_420_531.jpg",
+				"squareImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/1901281022-1449672920586084352-1449672920586084354-1.jpg",
+				"icon": "http://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/160/1567393657900.png",
+				"sizeLabel": {
+					"bizType": "sizeTight",
+					"value": "剩L/XL码",
+					"list": [
+						"L",
+						"XL"
+					]
+				},
+				"price": {
+					"priceType": "crazy",
+					"priceLabelType": "text",
+					"priceLabel": "特卖价",
+					"salePrice": "299",
+					"salePriceSuff": "",
+					"saleDiscount": "1.7折",
+					"marketPrice": "1769"
+				},
+				"attrs": [
+					{
+						"name": "弹性",
+						"value": "无弹"
+					},
+					{
+						"name": "版型",
+						"value": "宽松"
+					},
+					{
+						"name": "衣长",
+						"value": "长"
+					},
+					{
+						"name": "厚薄",
+						"value": "常规"
+					}
+				],
+				"flags": 32
+			},
+			{
+				"productId": "6918963573212059290",
+				"brandId": "1710614426",
+				"subjectId": "",
+				"brandStoreSn": "10000683",
+				"categoryId": "316",
+				"spuId": "2885195434177253376",
+				"skuId": "2885195434177253377",
+				"status": "0",
+				"title": "2020冬季新款羊毛双面呢气场长大衣双排扣呢子外套",
+				"smallImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2020/09/27/147/6efdac18-cbd3-41f0-b202-fdf6fc9669df_420_531.jpg",
+				"squareImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2020/09/27/160/7e1b1845-bfdb-45ec-8352-ede03c1407c3.jpg",
+				"icon": "http://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/160/1567393657900.png",
+				"price": {
+					"priceType": "crazy",
+					"priceLabelType": "text",
+					"priceLabel": "特卖价",
+					"salePrice": "761",
+					"salePriceSuff": "",
+					"saleDiscount": "2.9折",
+					"marketPrice": "2639"
+				},
+				"attrs": [
+					{
+						"name": "弹性",
+						"value": "无弹"
+					},
+					{
+						"name": "版型",
+						"value": "宽松"
+					},
+					{
+						"name": "衣长",
+						"value": "长"
+					},
+					{
+						"name": "厚薄",
+						"value": "常规"
+					}
+				],
+				"flags": 32
+			},
+			{
+				"productId": "6918960589471762074",
+				"brandId": "1710614426",
+				"subjectId": "",
+				"brandStoreSn": "10000683",
+				"categoryId": "390559",
+				"spuId": "3327392620993105921",
+				"skuId": "3327392620993110016",
+				"status": "0",
+				"title": "2020冬季新款高领亮片镂空宽松长袖针织衫毛衣套头毛衫",
+				"smallImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/669581313-3327392620993105921-3327392620993105925-50_420_531.jpg",
+				"squareImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/1133613678-3327392620993105921-3327392620993105925-1.jpg",
+				"icon": "http://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/160/1567393657900.png",
+				"price": {
+					"priceType": "crazy",
+					"priceLabelType": "text",
+					"priceLabel": "特卖价",
+					"salePrice": "241",
+					"salePriceSuff": "",
+					"saleDiscount": "2.6折",
+					"marketPrice": "939"
+				},
+				"attrs": [
+					{
+						"name": "弹性",
+						"value": "微弹"
+					},
+					{
+						"name": "版型",
+						"value": "宽松"
+					},
+					{
+						"name": "衣长",
+						"value": "常规"
+					},
+					{
+						"name": "厚薄",
+						"value": "常规"
+					}
+				],
+				"flags": 32
+			},
+			{
+				"productId": "6918934536256774618",
+				"brandId": "1710614426",
+				"subjectId": "",
+				"brandStoreSn": "10000683",
+				"categoryId": "390559",
+				"spuId": "2615260924421013504",
+				"skuId": "2615260924421017600",
+				"status": "0",
+				"title": "2020冬季新款圆领山茶花提花宽松长袖针织衫圈圈纱毛衫毛衣",
+				"smallImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/1822122454-2615260924421013504-2615260924421017601-50_420_531.jpg",
+				"squareImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/718061677-2615260924421013504-2615260924421017601-1.jpg",
+				"icon": "http://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/160/1567393657900.png",
+				"price": {
+					"priceType": "special",
+					"priceLabelType": "text",
+					"priceLabel": "特卖价",
+					"salePrice": "208",
+					"salePriceSuff": "",
+					"saleDiscount": "3.2折",
+					"marketPrice": "669"
+				},
+				"attrs": [
+					{
+						"name": "弹性",
+						"value": "微弹"
+					},
+					{
+						"name": "版型",
+						"value": "宽松"
+					},
+					{
+						"name": "衣长",
+						"value": "常规"
+					},
+					{
+						"name": "厚薄",
+						"value": "常规"
+					}
+				],
+				"flags": 48
+			},
+			{
+				"productId": "6918488035140920922",
+				"brandId": "1710614426",
+				"subjectId": "",
+				"brandStoreSn": "10000683",
+				"categoryId": "327",
+				"spuId": "1327231321725579264",
+				"skuId": "1327231321725579265",
+				"status": "0",
+				"title": "2019冬季新款翻领单排扣毛毛大衣温暖长袖外套上衣",
+				"smallImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/1410437369-1327231321725579264-1327231321725579266-50_420_531.jpg",
+				"squareImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/1298075366-1327231321725579264-1327231321725579266-1.jpg",
+				"icon": "http://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/160/1567393657900.png",
+				"sizeLabel": {
+					"bizType": "sizeTight",
+					"value": "剩L/XL码",
+					"list": [
+						"L",
+						"XL"
+					]
+				},
+				"price": {
+					"priceType": "crazy",
+					"priceLabelType": "text",
+					"priceLabel": "特卖价",
+					"salePrice": "172",
+					"salePriceSuff": "",
+					"saleDiscount": "1.1折",
+					"marketPrice": "1669"
+				},
+				"attrs": [
+					{
+						"name": "弹性",
+						"value": "无弹"
+					},
+					{
+						"name": "版型",
+						"value": "直筒"
+					},
+					{
+						"name": "衣长",
+						"value": "常规"
+					},
+					{
+						"name": "厚薄",
+						"value": "常规"
+					}
+				],
+				"flags": 32
+			},
+			{
+				"productId": "6918467526676091034",
+				"brandId": "1710614426",
+				"subjectId": "",
+				"brandStoreSn": "10000683",
+				"categoryId": "316",
+				"spuId": "388230794813333504",
+				"skuId": "388230794813337600",
+				"status": "0",
+				"title": "2019冬季新款毛毛翻领宽松中长款羊毛呢大衣呢子双面呢外套",
+				"smallImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/1143900705-388230794813333504-388230794813333506-50_420_531.jpg",
+				"squareImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/419349400-388230794813333504-388230794813333506-1.jpg",
+				"sizeLabel": {
+					"bizType": "sizeTight",
+					"value": "剩L/XL码",
+					"list": [
+						"L",
+						"XL"
+					]
+				},
+				"price": {
+					"priceType": "crazy",
+					"priceLabelType": "text",
+					"priceLabel": "特卖价",
+					"salePrice": "337",
+					"salePriceSuff": "",
+					"saleDiscount": "1.0折",
+					"marketPrice": "3569"
+				},
+				"attrs": [
+					{
+						"name": "弹性",
+						"value": "无弹"
+					},
+					{
+						"name": "版型",
+						"value": "宽松"
+					},
+					{
+						"name": "衣长",
+						"value": "中长"
+					},
+					{
+						"name": "厚薄",
+						"value": "常规"
+					}
+				],
+				"flags": 32
+			},
+			{
+				"productId": "6918943267855205146",
+				"brandId": "1710614426",
+				"subjectId": "",
+				"brandStoreSn": "10000683",
+				"categoryId": "390559",
+				"spuId": "1976875675219611648",
+				"skuId": "1976875675219615744",
+				"status": "0",
+				"title": "2020冬季新款圆领爱心提花宽松长袖针织衫毛衣毛衫",
+				"smallImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/104832/2020/0902/74/602bde80-97be-424e-9957-5c19c93bdcf4_420_531.jpg",
+				"squareImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/104832/2020/0902/52/3b961dc2-82f1-4cac-9408-11a07abf4be1.jpg",
+				"icon": "http://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/160/1567393657900.png",
+				"price": {
+					"priceType": "crazy",
+					"priceLabelType": "text",
+					"priceLabel": "特卖价",
+					"salePrice": "187",
+					"salePriceSuff": "",
+					"saleDiscount": "3.0折",
+					"marketPrice": "639"
+				},
+				"attrs": [
+					{
+						"name": "弹性",
+						"value": "微弹"
+					},
+					{
+						"name": "版型",
+						"value": "直筒"
+					},
+					{
+						"name": "衣长",
+						"value": "常规"
+					},
+					{
+						"name": "厚薄",
+						"value": "常规"
+					}
+				],
+				"flags": 32
+			},
+			{
+				"productId": "6918920134489465306",
+				"brandId": "1710614426",
+				"subjectId": "",
+				"brandStoreSn": "10000683",
+				"categoryId": "316",
+				"spuId": "2195581729547935744",
+				"skuId": "2195581729547939840",
+				"status": "0",
+				"title": "2020冬季新款翻领双排扣宽松长款双面呢羊毛呢大衣外套",
+				"smallImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2020/08/24/184/243546e5-8712-4114-9e0c-31b5f105587f_420_531.jpg",
+				"squareImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2020/08/24/27/03fdf9fa-4ab5-4005-be53-3fd19790e552.jpg",
+				"icon": "http://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/160/1567393657900.png",
+				"price": {
+					"priceType": "crazy",
+					"priceLabelType": "text",
+					"priceLabel": "特卖价",
+					"salePrice": "471",
+					"salePriceSuff": "",
+					"saleDiscount": "2.9折",
+					"marketPrice": "1639"
+				},
+				"attrs": [
+					{
+						"name": "弹性",
+						"value": "无弹"
+					},
+					{
+						"name": "版型",
+						"value": "宽松"
+					},
+					{
+						"name": "衣长",
+						"value": "长"
+					},
+					{
+						"name": "厚薄",
+						"value": "常规"
+					}
+				],
+				"flags": 32
+			},
+			{
+				"productId": "6918944816064963354",
+				"brandId": "1710614426",
+				"subjectId": "",
+				"brandStoreSn": "10000683",
+				"categoryId": "390559",
+				"spuId": "2974704471483654144",
+				"skuId": "2974704471483658240",
+				"status": "0",
+				"title": "2020冬季新款翻领宽松长袖温暖兔毛纱中长款针织衫毛衣",
+				"smallImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/612555289-2974704471483654144-2974704471483654146-50_420_531.jpg",
+				"squareImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/1703287772-2974704471483654144-2974704471483654146-1.jpg",
+				"icon": "http://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/160/1567393657900.png",
+				"price": {
+					"priceType": "special",
+					"priceLabelType": "text",
+					"priceLabel": "特卖价",
+					"salePrice": "186",
+					"salePriceSuff": "",
+					"saleDiscount": "3.2折",
+					"marketPrice": "599"
+				},
+				"attrs": [
+					{
+						"name": "弹性",
+						"value": "微弹"
+					},
+					{
+						"name": "版型",
+						"value": "宽松"
+					},
+					{
+						"name": "衣长",
+						"value": "中长"
+					},
+					{
+						"name": "厚薄",
+						"value": "常规"
+					}
+				],
+				"flags": 32
+			},
+			{
+				"productId": "6918930256714916314",
+				"brandId": "1710614426",
+				"subjectId": "",
+				"brandStoreSn": "10000683",
+				"categoryId": "390559",
+				"spuId": "3062524660729950208",
+				"skuId": "3062524660729954304",
+				"status": "0",
+				"title": "2020冬季新款高领镂空修身长袖针织衫羊毛衫打底毛衣女",
+				"smallImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/1981406447-3062524660729950208-3062524660729950210-50_5t.jpg",
+				"squareImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/323624214-3062524660729950208-3062524660729950210-1.jpg",
+				"icon": "http://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/160/1567393657900.png",
+				"price": {
+					"priceType": "crazy",
+					"priceLabelType": "text",
+					"priceLabel": "特卖价",
+					"salePrice": "125",
+					"salePriceSuff": "",
+					"saleDiscount": "2.9折",
+					"marketPrice": "439"
+				},
+				"attrs": [
+					{
+						"name": "弹性",
+						"value": "高弹"
+					},
+					{
+						"name": "版型",
+						"value": "修身"
+					},
+					{
+						"name": "衣长",
+						"value": "常规"
+					},
+					{
+						"name": "厚薄",
+						"value": "常规"
+					}
+				],
+				"flags": 48
+			},
+			{
+				"productId": "6918934536290615770",
+				"brandId": "1710614426",
+				"subjectId": "",
+				"brandStoreSn": "10000683",
+				"categoryId": "390556",
+				"spuId": "1304431957879488512",
+				"skuId": "1304431957879492608",
+				"status": "0",
+				"title": "2020冬季新款系带V领欧根纱花朵绣花长袖花苞袖重工衬衫",
+				"smallImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2020/09/04/15/62d661e5-cbd0-4d56-b652-4be9ed52e122_420_531.jpg",
+				"squareImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2020/09/04/172/e4729a25-f3cb-40c3-9568-f8f72b82cb6d.jpg",
+				"icon": "http://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/160/1567393657900.png",
+				"price": {
+					"priceType": "special",
+					"priceLabelType": "text",
+					"priceLabel": "特卖价",
+					"salePrice": "246",
+					"salePriceSuff": "",
+					"saleDiscount": "3.2折",
+					"marketPrice": "769"
+				},
+				"attrs": [
+					{
+						"name": "弹性",
+						"value": "无弹"
+					},
+					{
+						"name": "版型",
+						"value": "直筒"
+					},
+					{
+						"name": "衣长",
+						"value": "常规"
+					},
+					{
+						"name": "厚薄",
+						"value": "常规"
+					}
+				],
+				"flags": 32
+			},
+			{
+				"productId": "6918963573195224730",
+				"brandId": "1710614426",
+				"subjectId": "",
+				"brandStoreSn": "10000683",
+				"categoryId": "390559",
+				"spuId": "2392895700313952256",
+				"skuId": "2392895700313956352",
+				"status": "0",
+				"title": "2020冬季新款圆领长袖针织衫草莓提花毛衫套头毛衣",
+				"smallImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/481865844-2392895700313952256-2392895700313952258-50_5t.jpg",
+				"squareImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/992565552-2392895700313952256-2392895700313952258-1.jpg",
+				"icon": "http://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/160/1567393657900.png",
+				"price": {
+					"priceType": "special",
+					"priceLabelType": "text",
+					"priceLabel": "特卖价",
+					"salePrice": "214",
+					"salePriceSuff": "",
+					"saleDiscount": "3.1折",
+					"marketPrice": "699"
+				},
+				"attrs": [
+					{
+						"name": "弹性",
+						"value": "微弹"
+					},
+					{
+						"name": "版型",
+						"value": "宽松"
+					},
+					{
+						"name": "衣长",
+						"value": "常规"
+					},
+					{
+						"name": "厚薄",
+						"value": "常规"
+					}
+				],
+				"flags": 32
+			},
+			{
+				"productId": "6918905186462528090",
+				"brandId": "1710614426",
+				"subjectId": "",
+				"brandStoreSn": "10000683",
+				"categoryId": "390566",
+				"spuId": "880249157778849792",
+				"skuId": "880249157778853888",
+				"status": "0",
+				"title": "2020秋季新款高腰直筒裤老爹裤棉弹牛仔裤长裤",
+				"smallImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/246701021-880249157778849792-880249157778849794-50_5t.jpg",
+				"squareImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/1435205698-880249157778849792-880249157778849794-1.jpg",
+				"price": {
+					"priceType": "special",
+					"priceLabelType": "text",
+					"priceLabel": "特卖价",
+					"salePrice": "180",
+					"salePriceSuff": "",
+					"saleDiscount": "3.1折",
+					"marketPrice": "599"
+				},
+				"attrs": [
+					{
+						"name": "弹性",
+						"value": "微弹"
+					},
+					{
+						"name": "版型",
+						"value": "直筒"
+					},
+					{
+						"name": "厚薄",
+						"value": "常规"
+					},
+					{
+						"name": "裤长",
+						"value": "长裤"
+					}
+				],
+				"flags": 32
+			},
+			{
+				"productId": "6918960589522515610",
+				"brandId": "1710614426",
+				"subjectId": "",
+				"brandStoreSn": "10000683",
+				"categoryId": "390558",
+				"spuId": "2166589815914319872",
+				"skuId": "2166589815914323968",
+				"status": "0",
+				"title": "【演员请就位任敏同款】加厚款-秋冬新款高领德绒发热长袖打底衫",
+				"smallImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/1251884401-2166589815914319872-2166589815914319874-50_420_531.jpg",
+				"squareImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/626490378-2166589815914319872-2166589815914319874-1.jpg",
+				"icon": "http://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/160/1567393657900.png",
+				"price": {
+					"priceType": "special",
+					"priceLabelType": "text",
+					"priceLabel": "特卖价",
+					"salePrice": "133",
+					"salePriceSuff": "",
+					"saleDiscount": "3.1折",
+					"marketPrice": "439"
+				},
+				"attrs": [
+					{
+						"name": "弹性",
+						"value": "高弹"
+					},
+					{
+						"name": "版型",
+						"value": "修身"
+					},
+					{
+						"name": "衣长",
+						"value": "常规"
+					},
+					{
+						"name": "厚薄",
+						"value": "常规"
+					}
+				],
+				"flags": 48
+			},
+			{
+				"productId": "6918960589539395226",
+				"brandId": "1710614426",
+				"subjectId": "",
+				"brandStoreSn": "10000683",
+				"categoryId": "316",
+				"spuId": "3914549422594560001",
+				"skuId": "3914549422594560002",
+				"status": "0",
+				"title": "2020冬季新款翻领单排扣宽松长款腰带长袖毛呢外套大衣",
+				"smallImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/386822485-3914549422594560001-3914549422594560003-50_420_531.jpg",
+				"squareImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/56353829-3914549422594560001-3914549422594560003-1.jpg",
+				"icon": "http://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/160/1567393657900.png",
+				"price": {
+					"priceType": "special",
+					"priceLabelType": "text",
+					"priceLabel": "特卖价",
+					"salePrice": "688",
+					"salePriceSuff": "",
+					"saleDiscount": "3.1折",
+					"marketPrice": "2269"
+				},
+				"attrs": [
+					{
+						"name": "弹性",
+						"value": "无弹"
+					},
+					{
+						"name": "版型",
+						"value": "宽松"
+					},
+					{
+						"name": "衣长",
+						"value": "中长"
+					},
+					{
+						"name": "厚薄",
+						"value": "常规"
+					}
+				],
+				"flags": 32
+			},
+			{
+				"productId": "6918979580158220122",
+				"brandId": "1710614426",
+				"subjectId": "",
+				"brandStoreSn": "10000683",
+				"categoryId": "390559",
+				"spuId": "1836138198896844800",
+				"skuId": "1836138198896848896",
+				"status": "0",
+				"title": "2020冬季新款复古时髦宽松套头针织菱格纹毛衣",
+				"smallImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/1752504216-1836138198896844800-1836138198896844802-50_5t.jpg",
+				"squareImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/429521314-1836138198896844800-1836138198896844802-1.jpg",
+				"icon": "http://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/115/1567393701102.png",
+				"price": {
+					"priceType": "special",
+					"priceLabelType": "text",
+					"priceLabel": "特卖价",
+					"salePrice": "262",
+					"salePriceSuff": "",
+					"saleDiscount": "3.3折",
+					"marketPrice": "799"
+				},
+				"attrs": [
+					{
+						"name": "弹性",
+						"value": "高弹"
+					},
+					{
+						"name": "版型",
+						"value": "直筒"
+					},
+					{
+						"name": "衣长",
+						"value": "常规"
+					},
+					{
+						"name": "厚薄",
+						"value": "常规"
+					}
+				],
+				"flags": 32
+			},
+			{
+				"productId": "6918882357752079642",
+				"brandId": "1710614426",
+				"subjectId": "",
+				"brandStoreSn": "10000683",
+				"categoryId": "322",
+				"spuId": "900515353640005632",
+				"skuId": "900515353640005633",
+				"status": "0",
+				"title": "2020秋季新款大翻领双排扣披肩腰带长袖风衣外套",
+				"smallImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/1227190489-900515353640005632-900515353640005634-50_420_531.jpg",
+				"squareImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/2008963158-900515353640005632-900515353640005634-1.jpg",
+				"icon": "http://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/160/1567393657900.png",
+				"price": {
+					"priceType": "crazy",
+					"priceLabelType": "text",
+					"priceLabel": "特卖价",
+					"salePrice": "326",
+					"salePriceSuff": "",
+					"saleDiscount": "2.8折",
+					"marketPrice": "1199"
+				},
+				"attrs": [
+					{
+						"name": "弹性",
+						"value": "无弹"
+					},
+					{
+						"name": "版型",
+						"value": "宽松"
+					},
+					{
+						"name": "衣长",
+						"value": "中长"
+					},
+					{
+						"name": "厚薄",
+						"value": "常规"
+					}
+				],
+				"flags": 32
+			},
+			{
+				"productId": "6918944816064930586",
+				"brandId": "1710614426",
+				"subjectId": "",
+				"brandStoreSn": "10000683",
+				"categoryId": "390559",
+				"spuId": "250589642663784448",
+				"skuId": "250589642663788546",
+				"status": "0",
+				"title": "2020冬季新款V领胡萝卜提花宽松长袖针织衫毛衣外套",
+				"smallImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/104832/2020/0831/110/24067c2f-24e0-4678-907a-17a010e96de5_420_531.jpg",
+				"squareImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/104832/2020/0831/195/d505a40a-cd5c-4a76-8498-62915cfe040b.jpg",
+				"icon": "http://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/160/1567393657900.png",
+				"price": {
+					"priceType": "crazy",
+					"priceLabelType": "text",
+					"priceLabel": "特卖价",
+					"salePrice": "188",
+					"salePriceSuff": "",
+					"saleDiscount": "3.0折",
+					"marketPrice": "639"
+				},
+				"attrs": [
+					{
+						"name": "弹性",
+						"value": "微弹"
+					},
+					{
+						"name": "版型",
+						"value": "宽松"
+					},
+					{
+						"name": "衣长",
+						"value": "常规"
+					},
+					{
+						"name": "厚薄",
+						"value": "常规"
+					}
+				],
+				"flags": 48
+			},
+			{
+				"productId": "6918956309985572506",
+				"brandId": "1710614426",
+				"subjectId": "",
+				"brandStoreSn": "10000683",
+				"categoryId": "391033",
+				"spuId": "2327593503717838848",
+				"skuId": "2327593503717842944",
+				"status": "0",
+				"title": "2020冬季新款 花边彼得潘领松紧腰喇叭袖重工蕾丝裙连衣裙",
+				"smallImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/104832/2020/0928/137/25236436-bd0d-483e-a475-99e057ef477e_420_531.jpg",
+				"squareImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/1084243735-2327593503717838848-2327593503717838850-4.jpg",
+				"icon": "http://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/160/1567393657900.png",
+				"price": {
+					"priceType": "special",
+					"priceLabelType": "text",
+					"priceLabel": "特卖价",
+					"salePrice": "348",
+					"salePriceSuff": "",
+					"saleDiscount": "3.2折",
+					"marketPrice": "1099"
+				},
+				"attrs": [
+					{
+						"name": "弹性",
+						"value": "无弹"
+					},
+					{
+						"name": "版型",
+						"value": "修身"
+					},
+					{
+						"name": "裙长",
+						"value": "中长裙"
+					},
+					{
+						"name": "厚薄",
+						"value": "常规"
+					}
+				],
+				"flags": 32
+			},
+			{
+				"productId": "6918944815997489946",
+				"brandId": "1710614426",
+				"subjectId": "",
+				"brandStoreSn": "10000683",
+				"categoryId": "316",
+				"spuId": "1897499735939465216",
+				"skuId": "1897499735939465217",
+				"status": "0",
+				"title": "2020冬季新款拼接大翻领腰带双排扣羊毛呢大衣外套",
+				"smallImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/1322580724-1897499735939465216-1897499735939465218-50_5t.jpg",
+				"squareImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvop/00104832/10000683/1202138994-1897499735939465216-1897499735939465218-1.jpg",
+				"icon": "http://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/160/1567393657900.png",
+				"price": {
+					"priceType": "special",
+					"priceLabelType": "text",
+					"priceLabel": "特卖价",
+					"salePrice": "588",
+					"salePriceSuff": "",
+					"saleDiscount": "3.2折",
+					"marketPrice": "1869"
+				},
+				"attrs": [
+					{
+						"name": "弹性",
+						"value": "无弹"
+					},
+					{
+						"name": "版型",
+						"value": "宽松"
+					},
+					{
+						"name": "衣长",
+						"value": "中长"
+					},
+					{
+						"name": "厚薄",
+						"value": "常规"
+					}
+				],
+				"flags": 32
+			},
+			{
+				"productId": "6918943267905770266",
+				"brandId": "1710614426",
+				"subjectId": "",
+				"brandStoreSn": "10000683",
+				"categoryId": "390562",
+				"spuId": "1874137312973000704",
+				"skuId": "1874137312973004801",
+				"status": "0",
+				"title": "2020冬季新款立领宽松白鸭绒长袖短款羽绒服外套",
+				"smallImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2020/09/11/125/dba974b1-a647-412f-ae9f-03210c77a698_420_531.jpg",
+				"squareImage": "http://h2.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2020/09/11/117/95b4a471-de59-406f-970a-4cc0967436e2.jpg",
+				"icon": "http://h2.appsimg.com/b.appsimg.com/upload/momin/2019/09/02/160/1567393657900.png",
+				"price": {
+					"priceType": "crazy",
+					"priceLabelType": "text",
+					"priceLabel": "特卖价",
+					"salePrice": "336",
+					"salePriceSuff": "",
+					"saleDiscount": "3.0折",
+					"marketPrice": "1139"
+				},
+				"attrs": [
+					{
+						"name": "弹性",
+						"value": "无弹"
+					},
+					{
+						"name": "版型",
+						"value": "宽松"
+					},
+					{
+						"name": "衣长",
+						"value": "短"
+					},
+					{
+						"name": "厚薄",
+						"value": "薄"
+					}
+				],
+				"flags": 48
+			}
+		],
+		"context": "{\"615\":\"1\",\"872\":\"1\"}",
+		"extData": {
+			"recSlotIndex": -1
+		}
+	}
+}
