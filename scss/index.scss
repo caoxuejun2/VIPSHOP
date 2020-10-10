@@ -679,3 +679,16 @@ aside{
 		}
 	}
 }
+.filtrate-top{
+	margin-top: 20px;
+	.filtrate-txt{
+		@include c();
+		font-size: 20px;
+		.fiveOff{
+			font-size: 14px;
+		}
+	}
+	.filtrateCollect{
+		color: #FA2A83;
+	}
+}

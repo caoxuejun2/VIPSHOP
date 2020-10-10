@@ -14,6 +14,5 @@ require.config({
 })
 require(['index'],function(index){
   index.off();
-  index.ceiling();
   index.footerlist();
 })

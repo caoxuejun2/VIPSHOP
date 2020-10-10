@@ -541,3 +541,14 @@ aside {
     .footer .footer-c .footerInfor-img {
       text-align: center;
       margin-bottom: 10px; }
+
+.filtrate-top {
+  margin-top: 20px; }
+  .filtrate-top .filtrate-txt {
+    width: 1000px;
+    margin: auto;
+    font-size: 20px; }
+    .filtrate-top .filtrate-txt .fiveOff {
+      font-size: 14px; }
+  .filtrate-top .filtrateCollect {
+    color: #FA2A83; }
