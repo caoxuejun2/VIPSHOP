@@ -131,8 +131,52 @@ define(["jquery","jquery-cookie"],function($){
       }
     })
   }
-  function navlist(){
-
+  function navlist(url,name){
+    $(name).mouseenter(function(){
+      $(".drop-list").css("display","block")
+      $(".brand-img").css("display","block")
+    })
+    $(".drop").mouseenter(function(){
+      $(".drop-list").css("display","block")
+      $(".brand-img").css("display","block")
+    })
+    $(".drop").mouseleave(function(){
+      $(".drop-list").css("display","none")
+      $(".brand-img").css("display","none")
+    })
+    $(name).mouseenter(function(){
+      $(".drop-list-dl").remove()
+      $(".brand-img-item").remove()
+      $.ajax({
+        url:url,
+        success:function(obj){
+          var sectionList = obj.data.data.sectionList;
+          for(var i=1;i<sectionList.length-1;i++){
+            var node = $(` <dl class="drop-list-dl clr">
+            <dt class="drop-list-dt fl clr">${sectionList[i].category.name}<span class="dropListDt-span fr"> > </span></dt>
+            <dd class="drop-list-dd fl"></dd>
+            </dl>`)
+            node.appendTo($(".drop-list"))
+            var children = sectionList[i].category.children
+            for(var k=0;k<children.length;k++){
+              $(`<a href="javascript:;">${children[k].name}</a>`).appendTo(node.find(".drop-list-dd"))
+            }
+          }
+          var brand = obj.data.data.sectionList[sectionList.length-1].category.children
+          for(var j=0;j<brand.length;j++){
+            var node2 = $(` 
+                <div class="brand-img-item fl">
+                  <img src="${brand[j].image}" alt="">
+                  <p>${brand[j].name}</p>
+                </div>`)
+              node2.appendTo($(".brand-imgs-c"))
+          }
+        },
+        error:function(msg){
+          console.log(msg)
+        }
+      })
+    })
   }
   return{
     move,

@@ -15,7 +15,6 @@ require.config({
 require(['index'],function(index){
   index.ceiling();
   index.footerlist();
-  index.tradelist();
   index.navlist("../data/navJson1.json",".classify-a1");
   index.navlist("../data/navJson2.json",".classify-a2");
   index.navlist("../data/navJson3.json",".classify-a3");

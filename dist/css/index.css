@@ -304,24 +304,81 @@ aside {
       .head-nav .nav-more .more-drop a:hover {
         color: #FA2A83; }
 
-.classify .drop {
-  width: 156px;
+.classify .drop-classify {
   height: 0px;
   background-color: #FA2A83;
   transition: all 0.3s;
   overflow: hidden; }
-  .classify .drop p {
+  .classify .drop-classify p {
     font-size: 12px;
     width: 156px;
     height: 44px;
     line-height: 44px;
     color: #fff; }
-    .classify .drop p:hover {
+    .classify .drop-classify p:hover {
       background: #fff;
       color: #FA2A83; }
 
-.classify:hover .drop {
+.classify:hover .drop-classify {
   height: 484px; }
+
+.drop {
+  font-size: 12px;
+  position: relative; }
+  .drop .drop-list {
+    position: absolute;
+    top: 0;
+    left: 156px;
+    width: 560px;
+    padding: 16px 20px;
+    height: 452px;
+    background: #fff;
+    z-index: 3;
+    color: #333;
+    font-size: 12px;
+    overflow: auto;
+    display: none; }
+    .drop .drop-list .drop-list-dl {
+      line-height: 34px; }
+      .drop .drop-list .drop-list-dl .drop-list-dt {
+        width: 100px;
+        font-weight: bold; }
+      .drop .drop-list .drop-list-dl .drop-list-dd {
+        max-width: 420px;
+        text-align: left; }
+        .drop .drop-list .drop-list-dl .drop-list-dd a {
+          margin-right: 12px;
+          margin-left: 2px;
+          white-space: nowrap; }
+          .drop .drop-list .drop-list-dl .drop-list-dd a:hover {
+            color: #F10180; }
+  .drop .brand-img {
+    position: absolute;
+    top: 0;
+    left: 756px;
+    height: 484px;
+    width: 244px;
+    color: #333;
+    background: #F5F5F5;
+    display: none; }
+    .drop .brand-img .tuijian {
+      text-align: left;
+      margin-left: 20px; }
+    .drop .brand-img .brand-imgs .brand-imgs-c {
+      margin-left: 14px; }
+      .drop .brand-img .brand-imgs .brand-imgs-c .brand-img-item {
+        width: 68px;
+        height: 68px;
+        background-color: #fff;
+        margin: 2px;
+        border: 1px solid transparent; }
+        .drop .brand-img .brand-imgs .brand-imgs-c .brand-img-item img {
+          width: 50px;
+          margin-top: 10px; }
+        .drop .brand-img .brand-imgs .brand-imgs-c .brand-img-item p {
+          line-height: 16px; }
+        .drop .brand-img .brand-imgs .brand-imgs-c .brand-img-item:hover {
+          border: 1px solid #F10180; }
 
 .banner {
   width: 100%;

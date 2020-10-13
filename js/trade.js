@@ -64,7 +64,7 @@ define(["jquery","jquery-cookie"],function($){
         case 7:aBtns.removeClass("active").eq(7).addClass("active"); break;
         case 8:aBtns.removeClass("active").eq(8).addClass("active"); break;
         case 9:aBtns.removeClass("active").eq(9).addClass("active"); break;
-        default:console.log(d+"出错啦");
+        default:;
       }
     },1)
     aBtns.click(function(){
