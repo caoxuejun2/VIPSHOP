@@ -6,6 +6,7 @@
   <title>商品列表</title>
   <link rel="stylesheet" href="./font/iconfont.css">
   <link rel="stylesheet" href="css/index.min.css">
+  <link rel="stylesheet" href="css/list.min.css">
   <link rel="shortcut icon" href="https://www.vip.com/favicon.ico" />
   <script src="js/require.js" async="true" defer data-main="js/list"></script>
 </head>
@@ -120,8 +121,8 @@
             <a href="javascript:;"><p>医药健康</p> </a>
         </div>
       </div>
-      <li class="fl">首页</li>
-      <li class="fl">国庆特卖节</li>
+      <li class="fl headNav-li1">首页</li>
+      <li class="fl headNav-li2">国庆特卖节</li>
       <li class="fl">最后疯抢</li>
       <li class="fl">唯品快抢</li>
       <li class="fl">品牌清仓</li>
@@ -144,16 +145,43 @@
       </li>
     </nav>
   </div>
-  <div class="filtrate">
-    <div class="filtrate-top">
-      <div class="filtrate-txt">
+  <div class="filtrate clr">
+    <div class="filtrate-top clr">
+      <div class="filtrate-txt fl">
         三彩女装-时尚风暴专场 &nbsp;&nbsp;5<span class="fiveOff">折封顶</span>
       </div>
-      <div class="filtrateCollect">
-        <span class="iconfont icon-shoucang1"></span>收藏品牌
+      <div class="filtrateCollect fr">
+        <span class="iconfont icon-shoucang1"></span>收藏品牌 <span class="filtrateCollect-num">(1,791,214)</span>
       </div>
     </div>
-  </div>
+    <div class="filtrate-tab clr">
+      <ul class="filtrate-tab-1 fl clr">
+        <li class="fl">综合</li>
+        <li class="fl">销量</li>
+        <li class="fl">价格<img src="img/icon_03.png" alt=""></li>
+        <li class="fl">折扣<img src="img/icon_03.png" alt=""></li>
+        <li class="fl filtrate-tab-li">
+          <p class="fl"><input type="checkbox" name="trade" class="trade-checkbox">只看有货商品</p>
+          <p class="fl filtrate-p clr">
+            <span><input type="text" placeholder="￥" class="filtrate-price"></span> - 
+            <span><input type="text" placeholder="￥" class="filtrate-price"></span>
+            <span class="filtrate-button">
+              <span>确定</span>
+              <span>清除</span>
+            </span>
+          </p>
+        </li>
+      </ul>
+      <div class="filtrate-tab-2 fr">
+        <p>
+          <span class="pink">1518</span>件商品<span class="margin-l"></span><span class="pink">1</span>/8
+          <button class="filtrate-left"><span class="iconfont icon-xiangzuo"></span></button>
+          <button class="filtrate-next">下一页<span class="iconfont icon-you"></span></button>
+        </p>
+      </div>
+    </div>
+  </div> <!-- 筛选 -->
+  <div class="tradeList clr"></div>
   <div class="footer">
     <div class="footer-c">
       <div class="footer-img clr">

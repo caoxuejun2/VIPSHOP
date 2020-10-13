@@ -1,0 +1,168 @@
+{
+	"code": 200,
+	"msg": "success",
+	"data": {
+		"items": {
+			"100319361": {
+				"activeIndexTips": "",
+				"displayEndtime": 2145887938,
+				"salesNo": "100319361",
+				"brandImage": {
+					"size1": "//d.vpimg1.com/upcb/2020/09/03/112/ias_780172c9474a9fe1ae202e950a58cff2_570x273_90.jpg",
+					"size2": "//d.vpimg1.com/upcb/2020/09/03/112/ias_780172c9474a9fe1ae202e950a58cff2_320x153_90.jpg"
+				},
+				"mobileImageOne": "//d.vpimg1.com/upcb/2020/09/03/112/ias_780172c9474a9fe1ae202e950a58cff2.jpg",
+				"agio": "<span class=\"salebg2\">3.1</span>折起",
+				"salesName": "洋河蓝色经典白酒专场",
+				"brandStoreSn": "10027915",
+				"vendorSaleMessage": "",
+				"isSpecialBanner": "0",
+				"hiddenEndTime": 1,
+				"iconInfo": [],
+				"link": "//list.vip.com/100319361.html",
+				"showTimeFrom": 1564574702,
+				"topFiveCountTime": 1602554400
+			},
+			"100319413": {
+				"activeIndexTips": "",
+				"displayEndtime": 2145887938,
+				"salesNo": "100319413",
+				"brandImage": {
+					"size1": "//d.vpimg1.com/upcb/2020/09/03/76/ias_1051437d3759513c4bb7dc9c075ad56c_570x273_90.jpg",
+					"size2": "//d.vpimg1.com/upcb/2020/09/03/76/ias_1051437d3759513c4bb7dc9c075ad56c_320x153_90.jpg"
+				},
+				"mobileImageOne": "//d.vpimg1.com/upcb/2020/09/03/76/ias_1051437d3759513c4bb7dc9c075ad56c.jpg",
+				"agio": "<span class=\"salebg2\">3.7</span>折封顶",
+				"salesName": "尚客茶品SUMCL茗茶专场",
+				"brandStoreSn": "10003864",
+				"vendorSaleMessage": "",
+				"isSpecialBanner": "0",
+				"hiddenEndTime": 1,
+				"iconInfo": [],
+				"link": "//list.vip.com/100319413.html",
+				"showTimeFrom": 1564574706,
+				"topFiveCountTime": 1602554400
+			},
+			"100328371": {
+				"activeIndexTips": "",
+				"displayEndtime": 2145887938,
+				"salesNo": "100328371",
+				"brandImage": {
+					"size1": "//c.vpimg1.com/upcb/2020/09/03/75/ias_95c31291d9b720d5b2e934833dddf4c0_570x273_90.jpg",
+					"size2": "//c.vpimg1.com/upcb/2020/09/03/75/ias_95c31291d9b720d5b2e934833dddf4c0_320x153_90.jpg"
+				},
+				"mobileImageOne": "//c.vpimg1.com/upcb/2020/09/03/75/ias_95c31291d9b720d5b2e934833dddf4c0.jpg",
+				"agio": "<span class=\"salebg2\">4.2</span>折封顶",
+				"salesName": "圣芝葡萄酒专场",
+				"brandStoreSn": "10028458",
+				"vendorSaleMessage": "",
+				"isSpecialBanner": "0",
+				"hiddenEndTime": 1,
+				"iconInfo": [],
+				"link": "//list.vip.com/100328371.html",
+				"showTimeFrom": 1565413563,
+				"topFiveCountTime": 1602554400
+			},
+			"100528772": {
+				"activeIndexTips": "",
+				"displayEndtime": 2145887938,
+				"salesNo": "100528772",
+				"brandImage": {
+					"size1": "//c.vpimg1.com/upcb/2020/09/03/10/ias_b829a48d332b8195b8640009e960ad13_570x273_90.jpg",
+					"size2": "//c.vpimg1.com/upcb/2020/09/03/10/ias_b829a48d332b8195b8640009e960ad13_320x153_90.jpg"
+				},
+				"mobileImageOne": "//c.vpimg1.com/upcb/2020/09/03/10/ias_b829a48d332b8195b8640009e960ad13.jpg",
+				"agio": "<span class=\"salebg2\">1.4</span>折起",
+				"salesName": "燕之坊食品饮料专场",
+				"brandStoreSn": "10026348",
+				"vendorSaleMessage": "",
+				"isSpecialBanner": "0",
+				"hiddenEndTime": 1,
+				"iconInfo": [],
+				"link": "//list.vip.com/100528772.html",
+				"showTimeFrom": 1577248624,
+				"topFiveCountTime": 1602554400
+			},
+			"100543694": {
+				"activeIndexTips": "",
+				"displayEndtime": 2145887938,
+				"salesNo": "100543694",
+				"brandImage": {
+					"size1": "//d.vpimg1.com/upcb/2020/09/03/58/ias_00e7b52bc0eadd49aace719a161b40d1_570x273_90.jpg",
+					"size2": "//d.vpimg1.com/upcb/2020/09/03/58/ias_00e7b52bc0eadd49aace719a161b40d1_320x153_90.jpg"
+				},
+				"mobileImageOne": "//d.vpimg1.com/upcb/2020/09/03/58/ias_00e7b52bc0eadd49aace719a161b40d1.jpg",
+				"agio": "<span class=\"salebg2\">2.2</span>折起",
+				"salesName": "德国ORTHOMOL食品营养专场",
+				"brandStoreSn": "10024335",
+				"vendorSaleMessage": "",
+				"isSpecialBanner": "0",
+				"hiddenEndTime": 1,
+				"iconInfo": [],
+				"link": "//list.vip.com/100543694.html",
+				"showTimeFrom": 1578307883,
+				"topFiveCountTime": 1602554400
+			},
+			"100602582": {
+				"activeIndexTips": "",
+				"displayEndtime": 1602691200,
+				"salesNo": "100602582",
+				"brandImage": {
+					"size1": "//c.vpimg1.com/upcb/2020/09/01/171/ias_159894163849153_570x273_90.jpg",
+					"size2": "//c.vpimg1.com/upcb/2020/09/01/171/ias_159894163849153_320x153_90.jpg"
+				},
+				"mobileImageOne": "//c.vpimg1.com/upcb/2020/09/01/171/ias_159894163849153.jpg",
+				"agio": "<span class=\"salebg2\">1</span>折起",
+				"salesName": "全球超值营养保健专场",
+				"brandStoreSn": "",
+				"vendorSaleMessage": "",
+				"isSpecialBanner": "0",
+				"hiddenEndTime": 0,
+				"iconInfo": [],
+				"link": "//list.vip.com/100602582.html",
+				"showTimeFrom": 1583805600,
+				"topFiveCountTime": 1602554400
+			},
+			"100684582": {
+				"activeIndexTips": "",
+				"displayEndtime": 2145887938,
+				"salesNo": "100684582",
+				"brandImage": {
+					"size1": "//d.vpimg1.com/upcb/2020/09/04/130/ias_03411ce9e521bbae8dd74cec431c9357_570x273_90.jpg",
+					"size2": "//d.vpimg1.com/upcb/2020/09/04/130/ias_03411ce9e521bbae8dd74cec431c9357_320x153_90.jpg"
+				},
+				"mobileImageOne": "//d.vpimg1.com/upcb/2020/09/04/130/ias_03411ce9e521bbae8dd74cec431c9357.jpg",
+				"agio": "<span class=\"salebg2\">2.9</span>折封顶",
+				"salesName": "LES VIGNERONS DE TAVEL葡萄酒专场",
+				"brandStoreSn": "10030502",
+				"vendorSaleMessage": "",
+				"isSpecialBanner": "0",
+				"hiddenEndTime": 1,
+				"iconInfo": [],
+				"link": "//list.vip.com/100684582.html",
+				"showTimeFrom": 1590460831,
+				"topFiveCountTime": 1602554400
+			},
+			"100763347": {
+				"activeIndexTips": "",
+				"displayEndtime": 2145887938,
+				"salesNo": "100763347",
+				"brandImage": {
+					"size1": "//d.vpimg1.com/upcb/2020/09/04/34/ias_08c2562bed5c282ce2ae1e4a9b8f12c8_570x273_90.jpg",
+					"size2": "//d.vpimg1.com/upcb/2020/09/04/34/ias_08c2562bed5c282ce2ae1e4a9b8f12c8_320x153_90.jpg"
+				},
+				"mobileImageOne": "//d.vpimg1.com/upcb/2020/09/04/34/ias_08c2562bed5c282ce2ae1e4a9b8f12c8.jpg",
+				"agio": "<span class=\"salebg2\">2</span>折起",
+				"salesName": "Bio-E营养保健专场",
+				"brandStoreSn": "10024878",
+				"vendorSaleMessage": "",
+				"isSpecialBanner": "0",
+				"hiddenEndTime": 1,
+				"iconInfo": [],
+				"link": "//list.vip.com/100763347.html",
+				"showTimeFrom": 1599172684,
+				"topFiveCountTime": 1602554400
+			}
+		}
+	}
+}

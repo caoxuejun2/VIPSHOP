@@ -107,10 +107,35 @@ define(["jquery","jquery-cookie"],function($){
       }
     })
   }
+  function tradelist(){
+    $.ajax({
+      url:"../data/list.json",
+      success:function(arr){
+        var products = arr.data.products;
+        for(var i=0;i<products.length;i++){
+          var node = $(`<a href="javascrpt:;"><div class="tradeList-item fl">
+          <div class="tradeList-img"><img src="${products[i].smallImage}" alt=""></div>
+          <p class="tradeList-price"></p>
+          <p class="tradeList-infor">${products[i].title}</p>
+          </div></a>`)
+          node.appendTo($(".tradeList"))
+          var price = products[i].price;
+          $(` <span class="temai">特卖价</span>
+          <span class="tradeListPrice-num">￥${price.salePrice}</span> 
+          <span class="originalPrice">￥${price.marketPrice}</span>
+          <span class="price-off">${price.saleDiscount}</span>`).appendTo(node.find(".tradeList-price"))
+        }
+      },
+      error:function(msg){
+        console.log(msg)
+      }
+    })
+  }
   return{
     move,
     off,
     ceiling,
     footerlist,
+    tradelist,
   }
 })

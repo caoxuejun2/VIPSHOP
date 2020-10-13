@@ -15,4 +15,5 @@ require.config({
 require(['index'],function(index){
   index.off();
   index.footerlist();
+  index.tradelist();
 })

@@ -1,0 +1,408 @@
+{
+	"code": 200,
+	"msg": "success",
+	"data": {
+		"items": {
+			"100296705": {
+				"activeIndexTips": "",
+				"displayEndtime": 2145887938,
+				"salesNo": "100296705",
+				"brandImage": {
+					"size1": "//c.vpimg1.com/upcb/2020/09/03/140/ias_92b6053c0e5e22249d860f1bdc7ff3d6_570x273_90.jpg",
+					"size2": "//c.vpimg1.com/upcb/2020/09/03/140/ias_92b6053c0e5e22249d860f1bdc7ff3d6_320x153_90.jpg"
+				},
+				"mobileImageOne": "//c.vpimg1.com/upcb/2020/09/03/140/ias_92b6053c0e5e22249d860f1bdc7ff3d6.jpg",
+				"agio": "<span class=\"salebg2\">2.3</span>折起",
+				"salesName": "施华洛世奇饰品专场",
+				"brandStoreSn": "10000702",
+				"vendorSaleMessage": "",
+				"isSpecialBanner": "0",
+				"hiddenEndTime": 1,
+				"iconInfo": [],
+				"link": "//list.vip.com/100296705.html",
+				"showTimeFrom": 1563435023,
+				"topFiveCountTime": 1602554400
+			},
+			"100296716": {
+				"activeIndexTips": "",
+				"displayEndtime": 2145887938,
+				"salesNo": "100296716",
+				"brandImage": {
+					"size1": "//c.vpimg1.com/upcb/2020/10/02/94/ias_e7113bade753b51b7442bb32a2cc5960_570x273_90.jpg",
+					"size2": "//c.vpimg1.com/upcb/2020/10/02/94/ias_e7113bade753b51b7442bb32a2cc5960_320x153_90.jpg"
+				},
+				"mobileImageOne": "//c.vpimg1.com/upcb/2020/10/02/94/ias_e7113bade753b51b7442bb32a2cc5960.jpg",
+				"agio": "<span class=\"salebg2\">3</span>折起",
+				"salesName": "妮维雅NIVEA护肤个护专场",
+				"brandStoreSn": "10000634",
+				"vendorSaleMessage": "",
+				"isSpecialBanner": "0",
+				"hiddenEndTime": 1,
+				"iconInfo": [],
+				"link": "//list.vip.com/100296716.html",
+				"showTimeFrom": 1563435024,
+				"topFiveCountTime": 1602554400
+			},
+			"100296775": {
+				"activeIndexTips": "",
+				"displayEndtime": 2145887938,
+				"salesNo": "100296775",
+				"brandImage": {
+					"size1": "//c.vpimg1.com/upcb/2020/09/14/141/ias_46bc57a7e1fe3c587a8465413ce5868d_570x273_90.jpg",
+					"size2": "//c.vpimg1.com/upcb/2020/09/14/141/ias_46bc57a7e1fe3c587a8465413ce5868d_320x153_90.jpg"
+				},
+				"mobileImageOne": "//c.vpimg1.com/upcb/2020/09/14/141/ias_46bc57a7e1fe3c587a8465413ce5868d.jpg",
+				"agio": "<span class=\"salebg2\">2.7</span>折起",
+				"salesName": "法国ERIC FAVRE专场",
+				"brandStoreSn": "10028780",
+				"vendorSaleMessage": "",
+				"isSpecialBanner": "0",
+				"hiddenEndTime": 1,
+				"iconInfo": [],
+				"link": "//list.vip.com/100296775.html",
+				"showTimeFrom": 1563435026,
+				"topFiveCountTime": 1602554400
+			},
+			"100296833": {
+				"activeIndexTips": "",
+				"displayEndtime": 2145887938,
+				"salesNo": "100296833",
+				"brandImage": {
+					"size1": "//d.vpimg1.com/upcb/2020/09/03/56/ias_3bea5985a07e538ea4af52fc0848de7a_570x273_90.jpg",
+					"size2": "//d.vpimg1.com/upcb/2020/09/03/56/ias_3bea5985a07e538ea4af52fc0848de7a_320x153_90.jpg"
+				},
+				"mobileImageOne": "//d.vpimg1.com/upcb/2020/09/03/56/ias_3bea5985a07e538ea4af52fc0848de7a.jpg",
+				"agio": "<span class=\"salebg2\">2.4</span>折起",
+				"salesName": "Calvin Klein专场",
+				"brandStoreSn": "10000484",
+				"vendorSaleMessage": "",
+				"isSpecialBanner": "0",
+				"hiddenEndTime": 1,
+				"iconInfo": [],
+				"link": "//list.vip.com/100296833.html",
+				"showTimeFrom": 1563435030,
+				"topFiveCountTime": 1602554400
+			},
+			"100296843": {
+				"activeIndexTips": "",
+				"displayEndtime": 2145887938,
+				"salesNo": "100296843",
+				"brandImage": {
+					"size1": "//d.vpimg1.com/upcb/2020/09/04/36/ias_da510fe1f1612b32fed9717385eb02f1_570x273_90.jpg",
+					"size2": "//d.vpimg1.com/upcb/2020/09/04/36/ias_da510fe1f1612b32fed9717385eb02f1_320x153_90.jpg"
+				},
+				"mobileImageOne": "//d.vpimg1.com/upcb/2020/09/04/36/ias_da510fe1f1612b32fed9717385eb02f1.jpg",
+				"agio": "<span class=\"salebg2\">4.4</span>折封顶",
+				"salesName": "日本aminomason个人护理专场",
+				"brandStoreSn": "10031757",
+				"vendorSaleMessage": "",
+				"isSpecialBanner": "0",
+				"hiddenEndTime": 1,
+				"iconInfo": [],
+				"link": "//list.vip.com/100296843.html",
+				"showTimeFrom": 1563435031,
+				"topFiveCountTime": 1602554400
+			},
+			"100319354": {
+				"activeIndexTips": "",
+				"displayEndtime": 2145887938,
+				"salesNo": "100319354",
+				"brandImage": {
+					"size1": "//c.vpimg1.com/upcb/2020/09/03/44/ias_21bf1d6327be20f270b641584391aaa3_570x273_90.jpg",
+					"size2": "//c.vpimg1.com/upcb/2020/09/03/44/ias_21bf1d6327be20f270b641584391aaa3_320x153_90.jpg"
+				},
+				"mobileImageOne": "//c.vpimg1.com/upcb/2020/09/03/44/ias_21bf1d6327be20f270b641584391aaa3.jpg",
+				"agio": "<span class=\"salebg2\">4</span>折封顶",
+				"salesName": "Healthy Care专场",
+				"brandStoreSn": "10020902",
+				"vendorSaleMessage": "",
+				"isSpecialBanner": "0",
+				"hiddenEndTime": 1,
+				"iconInfo": [],
+				"link": "//list.vip.com/100319354.html",
+				"showTimeFrom": 1564574701,
+				"topFiveCountTime": 1602554400
+			},
+			"100371869": {
+				"activeIndexTips": "",
+				"displayEndtime": 2145887938,
+				"salesNo": "100371869",
+				"brandImage": {
+					"size1": "//c.vpimg1.com/upcb/2020/09/03/114/ias_b9aed267cddc130c14964497a4ab166e_570x273_90.jpg",
+					"size2": "//c.vpimg1.com/upcb/2020/09/03/114/ias_b9aed267cddc130c14964497a4ab166e_320x153_90.jpg"
+				},
+				"mobileImageOne": "//c.vpimg1.com/upcb/2020/09/03/114/ias_b9aed267cddc130c14964497a4ab166e.jpg",
+				"agio": "<span class=\"salebg2\">4.8</span>折起",
+				"salesName": "日本宝丽POLA专场",
+				"brandStoreSn": "10028663",
+				"vendorSaleMessage": "",
+				"isSpecialBanner": "0",
+				"hiddenEndTime": 1,
+				"iconInfo": [],
+				"link": "//list.vip.com/100371869.html",
+				"showTimeFrom": 1567124375,
+				"topFiveCountTime": 1602554400
+			},
+			"100462076": {
+				"activeIndexTips": "",
+				"displayEndtime": 2145887938,
+				"salesNo": "100462076",
+				"brandImage": {
+					"size1": "//c.vpimg1.com/upcb/2020/09/03/146/ias_e35432b1375d36248ebfe0e6f19d6756_570x273_90.jpg",
+					"size2": "//c.vpimg1.com/upcb/2020/09/03/146/ias_e35432b1375d36248ebfe0e6f19d6756_320x153_90.jpg"
+				},
+				"mobileImageOne": "//c.vpimg1.com/upcb/2020/09/03/146/ias_e35432b1375d36248ebfe0e6f19d6756.jpg",
+				"agio": "<span class=\"salebg2\">2.2</span>折起",
+				"salesName": "COACH箱包专场",
+				"brandStoreSn": "10025557",
+				"vendorSaleMessage": "",
+				"isSpecialBanner": "0",
+				"hiddenEndTime": 1,
+				"iconInfo": [],
+				"link": "//list.vip.com/100462076.html",
+				"showTimeFrom": 1572752199,
+				"topFiveCountTime": 1602554400
+			},
+			"100489601": {
+				"activeIndexTips": "",
+				"displayEndtime": 2145887938,
+				"salesNo": "100489601",
+				"brandImage": {
+					"size1": "//d.vpimg1.com/upcb/2020/09/03/46/ias_6b9c36aece04419e46f1757f481f76b5_570x273_90.jpg",
+					"size2": "//d.vpimg1.com/upcb/2020/09/03/46/ias_6b9c36aece04419e46f1757f481f76b5_320x153_90.jpg"
+				},
+				"mobileImageOne": "//d.vpimg1.com/upcb/2020/09/03/46/ias_6b9c36aece04419e46f1757f481f76b5.jpg",
+				"agio": "<span class=\"salebg2\">2.6</span>折起",
+				"salesName": "PURITAN'S PRIDE营养保健专场",
+				"brandStoreSn": "10014155",
+				"vendorSaleMessage": "",
+				"isSpecialBanner": "0",
+				"hiddenEndTime": 1,
+				"iconInfo": [],
+				"link": "//list.vip.com/100489601.html",
+				"showTimeFrom": 1574671027,
+				"topFiveCountTime": 1602554400
+			},
+			"100543651": {
+				"activeIndexTips": "",
+				"displayEndtime": 2145887938,
+				"salesNo": "100543651",
+				"brandImage": {
+					"size1": "//c.vpimg1.com/upcb/2020/09/03/66/ias_0273010f740bc2dfa5034a7359da51c2_570x273_90.jpg",
+					"size2": "//c.vpimg1.com/upcb/2020/09/03/66/ias_0273010f740bc2dfa5034a7359da51c2_320x153_90.jpg"
+				},
+				"mobileImageOne": "//c.vpimg1.com/upcb/2020/09/03/66/ias_0273010f740bc2dfa5034a7359da51c2.jpg",
+				"agio": "<span class=\"salebg2\">4.3</span>折封顶",
+				"salesName": "WRIGHT LIFE营养保健专场",
+				"brandStoreSn": "10029428",
+				"vendorSaleMessage": "",
+				"isSpecialBanner": "0",
+				"hiddenEndTime": 1,
+				"iconInfo": [],
+				"link": "//list.vip.com/100543651.html",
+				"showTimeFrom": 1578307881,
+				"topFiveCountTime": 1602554400
+			},
+			"100543694": {
+				"activeIndexTips": "",
+				"displayEndtime": 2145887938,
+				"salesNo": "100543694",
+				"brandImage": {
+					"size1": "//d.vpimg1.com/upcb/2020/09/03/58/ias_00e7b52bc0eadd49aace719a161b40d1_570x273_90.jpg",
+					"size2": "//d.vpimg1.com/upcb/2020/09/03/58/ias_00e7b52bc0eadd49aace719a161b40d1_320x153_90.jpg"
+				},
+				"mobileImageOne": "//d.vpimg1.com/upcb/2020/09/03/58/ias_00e7b52bc0eadd49aace719a161b40d1.jpg",
+				"agio": "<span class=\"salebg2\">2.2</span>折起",
+				"salesName": "德国ORTHOMOL食品营养专场",
+				"brandStoreSn": "10024335",
+				"vendorSaleMessage": "",
+				"isSpecialBanner": "0",
+				"hiddenEndTime": 1,
+				"iconInfo": [],
+				"link": "//list.vip.com/100543694.html",
+				"showTimeFrom": 1578307883,
+				"topFiveCountTime": 1602554400
+			},
+			"100543698": {
+				"activeIndexTips": "",
+				"displayEndtime": 2145887938,
+				"salesNo": "100543698",
+				"brandImage": {
+					"size1": "//d.vpimg1.com/upcb/2020/09/03/105/ias_391a350627162874cc7743a169f285a7_570x273_90.jpg",
+					"size2": "//d.vpimg1.com/upcb/2020/09/03/105/ias_391a350627162874cc7743a169f285a7_320x153_90.jpg"
+				},
+				"mobileImageOne": "//d.vpimg1.com/upcb/2020/09/03/105/ias_391a350627162874cc7743a169f285a7.jpg",
+				"agio": "<span class=\"salebg2\">2.7</span>折起",
+				"salesName": "澳洲EnerVite专场",
+				"brandStoreSn": "10037696",
+				"vendorSaleMessage": "",
+				"isSpecialBanner": "0",
+				"hiddenEndTime": 1,
+				"iconInfo": [],
+				"link": "//list.vip.com/100543698.html",
+				"showTimeFrom": 1578307883,
+				"topFiveCountTime": 1602554400
+			},
+			"100544058": {
+				"activeIndexTips": "",
+				"displayEndtime": 2145887938,
+				"salesNo": "100544058",
+				"brandImage": {
+					"size1": "//d.vpimg1.com/upcb/2020/09/03/100/ias_e96c45db7e9568c0f964bec8555668ae_570x273_90.jpg",
+					"size2": "//d.vpimg1.com/upcb/2020/09/03/100/ias_e96c45db7e9568c0f964bec8555668ae_320x153_90.jpg"
+				},
+				"mobileImageOne": "//d.vpimg1.com/upcb/2020/09/03/100/ias_e96c45db7e9568c0f964bec8555668ae.jpg",
+				"agio": "<span class=\"salebg2\">4.6</span>折起",
+				"salesName": "TIFFANY&CO.珠宝首饰专场",
+				"brandStoreSn": "10006009",
+				"vendorSaleMessage": "",
+				"isSpecialBanner": "0",
+				"hiddenEndTime": 1,
+				"iconInfo": [],
+				"link": "//list.vip.com/100544058.html",
+				"showTimeFrom": 1578393361,
+				"topFiveCountTime": 1602554400
+			},
+			"100544073": {
+				"activeIndexTips": "",
+				"displayEndtime": 2145887938,
+				"salesNo": "100544073",
+				"brandImage": {
+					"size1": "//d.vpimg1.com/upcb/2020/09/03/193/ias_e03235051525532285d1be3a6e74adaf_570x273_90.jpg",
+					"size2": "//d.vpimg1.com/upcb/2020/09/03/193/ias_e03235051525532285d1be3a6e74adaf_320x153_90.jpg"
+				},
+				"mobileImageOne": "//d.vpimg1.com/upcb/2020/09/03/193/ias_e03235051525532285d1be3a6e74adaf.jpg",
+				"agio": "<span class=\"salebg2\">2.5</span>折起",
+				"salesName": "vitafusion保健膳食专场",
+				"brandStoreSn": "10026288",
+				"vendorSaleMessage": "",
+				"isSpecialBanner": "0",
+				"hiddenEndTime": 1,
+				"iconInfo": [],
+				"link": "//list.vip.com/100544073.html",
+				"showTimeFrom": 1578393361,
+				"topFiveCountTime": 1602554400
+			},
+			"100544074": {
+				"activeIndexTips": "",
+				"displayEndtime": 2145887938,
+				"salesNo": "100544074",
+				"brandImage": {
+					"size1": "//d.vpimg1.com/upcb/2020/09/03/75/ias_6a31037af5e471007e5c0155aa616453_570x273_90.jpg",
+					"size2": "//d.vpimg1.com/upcb/2020/09/03/75/ias_6a31037af5e471007e5c0155aa616453_320x153_90.jpg"
+				},
+				"mobileImageOne": "//d.vpimg1.com/upcb/2020/09/03/75/ias_6a31037af5e471007e5c0155aa616453.jpg",
+				"agio": "<span class=\"salebg2\">2</span>折起",
+				"salesName": "Bio-E营养保健专场",
+				"brandStoreSn": "10024878",
+				"vendorSaleMessage": "",
+				"isSpecialBanner": "0",
+				"hiddenEndTime": 1,
+				"iconInfo": [],
+				"link": "//list.vip.com/100544074.html",
+				"showTimeFrom": 1578393361,
+				"topFiveCountTime": 1602554400
+			},
+			"100603227": {
+				"activeIndexTips": "",
+				"displayEndtime": 2145887938,
+				"salesNo": "100603227",
+				"brandImage": {
+					"size1": "//d.vpimg1.com/upcb/2020/09/03/16/ias_a405bfb36d3f4f55852a54eab0552f29_570x273_90.jpg",
+					"size2": "//d.vpimg1.com/upcb/2020/09/03/16/ias_a405bfb36d3f4f55852a54eab0552f29_320x153_90.jpg"
+				},
+				"mobileImageOne": "//d.vpimg1.com/upcb/2020/09/03/16/ias_a405bfb36d3f4f55852a54eab0552f29.jpg",
+				"agio": "<span class=\"salebg2\">3.6</span>折起",
+				"salesName": "西铁城Citizen石英表专场",
+				"brandStoreSn": "10001091",
+				"vendorSaleMessage": "",
+				"isSpecialBanner": "0",
+				"hiddenEndTime": 1,
+				"iconInfo": [],
+				"link": "//list.vip.com/100603227.html",
+				"showTimeFrom": 1583839117,
+				"topFiveCountTime": 1602554400
+			},
+			"100618962": {
+				"activeIndexTips": "",
+				"displayEndtime": 2145887938,
+				"salesNo": "100618962",
+				"brandImage": {
+					"size1": "//d.vpimg1.com/upcb/2020/09/03/106/ias_41db4a7cb8d514e0c213357d286acf9c_570x273_90.jpg",
+					"size2": "//d.vpimg1.com/upcb/2020/09/03/106/ias_41db4a7cb8d514e0c213357d286acf9c_320x153_90.jpg"
+				},
+				"mobileImageOne": "//d.vpimg1.com/upcb/2020/09/03/106/ias_41db4a7cb8d514e0c213357d286acf9c.jpg",
+				"agio": "<span class=\"salebg2\">4.8</span>折封顶",
+				"salesName": "w.p.c防雨防晒专场",
+				"brandStoreSn": "10031827",
+				"vendorSaleMessage": "",
+				"isSpecialBanner": "0",
+				"hiddenEndTime": 1,
+				"iconInfo": [],
+				"link": "//list.vip.com/100618962.html",
+				"showTimeFrom": 1584430625,
+				"topFiveCountTime": 1602554400
+			},
+			"100678623": {
+				"activeIndexTips": "",
+				"displayEndtime": 1602691200,
+				"salesNo": "100678623",
+				"brandImage": {
+					"size1": "//c.vpimg1.com/upcb/2020/06/17/179/ias_159237955326193_570x273_90.jpg",
+					"size2": "//c.vpimg1.com/upcb/2020/06/17/179/ias_159237955326193_320x153_90.jpg"
+				},
+				"mobileImageOne": "//c.vpimg1.com/upcb/2020/06/17/179/ias_159237955326193.jpg",
+				"agio": "<span class=\"salebg2\">1.9</span>折起",
+				"salesName": "澳洲melrose&Living Healthy膳食营养专场",
+				"brandStoreSn": "",
+				"vendorSaleMessage": "",
+				"isSpecialBanner": "0",
+				"hiddenEndTime": 0,
+				"iconInfo": [],
+				"link": "//list.vip.com/100678623.html",
+				"showTimeFrom": 1590976800,
+				"topFiveCountTime": 1602554400
+			},
+			"100678889": {
+				"activeIndexTips": "",
+				"displayEndtime": 1602691200,
+				"salesNo": "100678889",
+				"brandImage": {
+					"size1": "//d.vpimg1.com/upcb/2020/09/17/93/ias_160033388657859_570x273_90.jpg",
+					"size2": "//d.vpimg1.com/upcb/2020/09/17/93/ias_160033388657859_320x153_90.jpg"
+				},
+				"mobileImageOne": "//d.vpimg1.com/upcb/2020/09/17/93/ias_160033388657859.jpg",
+				"agio": "<span class=\"salebg2\">2</span>折起",
+				"salesName": "雀巢&G7优质咖啡海外专场",
+				"brandStoreSn": "",
+				"vendorSaleMessage": "",
+				"isSpecialBanner": "0",
+				"hiddenEndTime": 0,
+				"iconInfo": [],
+				"link": "//list.vip.com/100678889.html",
+				"showTimeFrom": 1590976800,
+				"topFiveCountTime": 1602554400
+			},
+			"100680975": {
+				"activeIndexTips": "",
+				"displayEndtime": 2145887938,
+				"salesNo": "100680975",
+				"brandImage": {
+					"size1": "//d.vpimg1.com/upcb/2020/09/04/117/ias_23ad7217fcfa88124361c6eae83083b3_570x273_90.jpg",
+					"size2": "//d.vpimg1.com/upcb/2020/09/04/117/ias_23ad7217fcfa88124361c6eae83083b3_320x153_90.jpg"
+				},
+				"mobileImageOne": "//d.vpimg1.com/upcb/2020/09/04/117/ias_23ad7217fcfa88124361c6eae83083b3.jpg",
+				"agio": "<span class=\"salebg2\">3.3</span>折起",
+				"salesName": "雷朋RayBan太阳镜专场",
+				"brandStoreSn": "10000946",
+				"vendorSaleMessage": "",
+				"isSpecialBanner": "0",
+				"hiddenEndTime": 1,
+				"iconInfo": [],
+				"link": "//list.vip.com/100680975.html",
+				"showTimeFrom": 1590118692,
+				"topFiveCountTime": 1602554400
+			}
+		}
+	}
+}

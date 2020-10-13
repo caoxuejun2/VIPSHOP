@@ -1,0 +1,530 @@
+{
+  "code": 200,
+  "msg": "success",
+  "data": {
+    "items": [
+      "100780076",
+      "100677999",
+      "100684837",
+      "100779907",
+      "100774826",
+      "100678079",
+      "100779583",
+      "100780077",
+      "100779883",
+      "100691898",
+      "100775123",
+      "100773560",
+      "100777593",
+      "100779584",
+      "100769448",
+      "100779909",
+      "100780392",
+      "100779656",
+      "100779806",
+      "100774698",
+      "100780483",
+      "100772612",
+      "100778144",
+      "100778745",
+      "100528769",
+      "100698036",
+      "100777976",
+      "100779881",
+      "100779897",
+      "100784595",
+      "100229992",
+      "100779657",
+      "100784594",
+      "100777980",
+      "100779395",
+      "100698414",
+      "100779800",
+      "100770196",
+      "100696523",
+      "100779516",
+      "100779880",
+      "100779658",
+      "100780104",
+      "100684840",
+      "100779784",
+      "100778142",
+      "100781465",
+      "100698147",
+      "100778137",
+      "100779519",
+      "100780079",
+      "100779420",
+      "100777974",
+      "100774725",
+      "100777592",
+      "100774745",
+      "100784596",
+      "100698164",
+      "100779801",
+      "100763458",
+      "100751503",
+      "100779785",
+      "100678880",
+      "100779803",
+      "100779642",
+      "100698082",
+      "100774958",
+      "100703858",
+      "100701221",
+      "100780103",
+      "100770747",
+      "100735733",
+      "100698235",
+      "100779786",
+      "100699044",
+      "100780380",
+      "100677975",
+      "100774129",
+      "100696507",
+      "100678087"
+    ],
+    "brandInfo": {
+      "100229992": {
+        "activeIndexTips": "",
+        "displayEndtime": 1609430399,
+        "salesNo": "100229992",
+        "brandImage": {
+          "size1": "//c.vpimg1.com/upcb/2020/09/04/148/ias_159920266982811_570x273_90.jpg",
+          "size2": "//c.vpimg1.com/upcb/2020/09/04/148/ias_159920266982811_320x153_90.jpg"
+        },
+        "mobileImageOne": "//c.vpimg1.com/upcb/2020/09/04/148/ias_159920266982811.jpg",
+        "agio": "<span class=\"salebg2\">2.1</span>折起",
+        "salesName": "好奇HUGGIES纸尿裤专场",
+        "brandStoreSn": "10011493",
+        "vendorSaleMessage": "",
+        "isSpecialBanner": "0",
+        "hiddenEndTime": 0,
+        "iconInfo": [
+          
+        ],
+        "link": "//list.vip.com/100229992.html",
+        "showTimeFrom": 1560600000,
+        "topFiveCountTime": 1602554400
+      },
+      "100528769": {
+        "activeIndexTips": "",
+        "displayEndtime": 2145887938,
+        "salesNo": "100528769",
+        "brandImage": {
+          "size1": "//d.vpimg1.com/upcb/2020/09/03/27/ias_fe5633b71a2bc9efbec5415daa46ccae_570x273_90.jpg",
+          "size2": "//d.vpimg1.com/upcb/2020/09/03/27/ias_fe5633b71a2bc9efbec5415daa46ccae_320x153_90.jpg"
+        },
+        "mobileImageOne": "//d.vpimg1.com/upcb/2020/09/03/27/ias_fe5633b71a2bc9efbec5415daa46ccae.jpg",
+        "agio": "<span class=\"salebg2\">5.3</span>折起",
+        "salesName": "a2奶粉辅食专场",
+        "brandStoreSn": "10022523",
+        "vendorSaleMessage": "",
+        "isSpecialBanner": "0",
+        "hiddenEndTime": 1,
+        "iconInfo": [
+          
+        ],
+        "link": "//list.vip.com/100528769.html",
+        "showTimeFrom": 1577248624,
+        "topFiveCountTime": 1602554400
+      },
+      "100677975": {
+        "activeIndexTips": "",
+        "displayEndtime": 1602691200,
+        "salesNo": "100677975",
+        "brandImage": {
+          "size1": "//c.vpimg1.com/upcb/2020/09/22/198/ias_160074467313257_570x273_90.jpg",
+          "size2": "//c.vpimg1.com/upcb/2020/09/22/198/ias_160074467313257_320x153_90.jpg"
+        },
+        "mobileImageOne": "//c.vpimg1.com/upcb/2020/09/22/198/ias_160074467313257.jpg",
+        "agio": "<span class=\"salebg2\">2.4</span>折起",
+        "salesName": "日本MERRIES花王纸尿裤海外专场",
+        "brandStoreSn": "",
+        "vendorSaleMessage": "",
+        "isSpecialBanner": "0",
+        "hiddenEndTime": 0,
+        "iconInfo": [
+          
+        ],
+        "link": "//list.vip.com/100677975.html",
+        "showTimeFrom": 1590976800,
+        "topFiveCountTime": 1602554400
+      },
+      "100677999": {
+        "activeIndexTips": "",
+        "displayEndtime": 1602691200,
+        "salesNo": "100677999",
+        "brandImage": {
+          "size1": "//d.vpimg1.com/upcb/2020/09/01/172/ias_159893753183488_570x273_90.jpg",
+          "size2": "//d.vpimg1.com/upcb/2020/09/01/172/ias_159893753183488_320x153_90.jpg"
+        },
+        "mobileImageOne": "//d.vpimg1.com/upcb/2020/09/01/172/ias_159893753183488.jpg",
+        "agio": "<span class=\"salebg2\">5</span>折封顶",
+        "salesName": "小猪班纳PEPCO男女童装-今日大牌",
+        "brandStoreSn": "10000782",
+        "vendorSaleMessage": "",
+        "isSpecialBanner": "0",
+        "hiddenEndTime": 0,
+        "iconInfo": [
+          
+        ],
+        "link": "//list.vip.com/100677999.html",
+        "showTimeFrom": 1590976800,
+        "topFiveCountTime": 1602554400
+      },
+      "100678079": {
+        "activeIndexTips": "",
+        "displayEndtime": 1602691200,
+        "salesNo": "100678079",
+        "brandImage": {
+          "size1": "//c.vpimg1.com/upcb/2020/08/12/22/ias_159720471017034_570x273_90.jpg",
+          "size2": "//c.vpimg1.com/upcb/2020/08/12/22/ias_159720471017034_320x153_90.jpg"
+        },
+        "mobileImageOne": "//c.vpimg1.com/upcb/2020/08/12/22/ias_159720471017034.jpg",
+        "agio": "<span class=\"salebg2\">2.7</span>折起",
+        "salesName": "泰迪熊纸尿裤-季末特卖专场",
+        "brandStoreSn": "10031285",
+        "vendorSaleMessage": "",
+        "isSpecialBanner": "0",
+        "hiddenEndTime": 0,
+        "iconInfo": [
+          
+        ],
+        "link": "//list.vip.com/100678079.html",
+        "showTimeFrom": 1590976800,
+        "topFiveCountTime": 1602554400
+      },
+      "100678087": {
+        "activeIndexTips": "",
+        "displayEndtime": 1602691200,
+        "salesNo": "100678087",
+        "brandImage": {
+          "size1": "//c.vpimg1.com/upcb/2020/08/12/33/ias_159721381482482_570x273_90.jpg",
+          "size2": "//c.vpimg1.com/upcb/2020/08/12/33/ias_159721381482482_320x153_90.jpg"
+        },
+        "mobileImageOne": "//c.vpimg1.com/upcb/2020/08/12/33/ias_159721381482482.jpg",
+        "agio": "<span class=\"salebg2\">5</span>折封顶",
+        "salesName": "五羊纸尿裤-季末特卖专场",
+        "brandStoreSn": "10006345",
+        "vendorSaleMessage": "",
+        "isSpecialBanner": "0",
+        "hiddenEndTime": 0,
+        "iconInfo": [
+          
+        ],
+        "link": "//list.vip.com/100678087.html",
+        "showTimeFrom": 1590976800,
+        "topFiveCountTime": 1602554400
+      },
+      "100678880": {
+        "activeIndexTips": "",
+        "displayEndtime": 1602691200,
+        "salesNo": "100678880",
+        "brandImage": {
+          "size1": "//d.vpimg1.com/upcb/2020/06/19/199/ias_159255582469844_570x273_90.jpg",
+          "size2": "//d.vpimg1.com/upcb/2020/06/19/199/ias_159255582469844_320x153_90.jpg"
+        },
+        "mobileImageOne": "//d.vpimg1.com/upcb/2020/06/19/199/ias_159255582469844.jpg",
+        "agio": "<span class=\"salebg2\">5.3</span>折起",
+        "salesName": "飞鹤奶粉",
+        "brandStoreSn": "10032286",
+        "vendorSaleMessage": "",
+        "isSpecialBanner": "0",
+        "hiddenEndTime": 0,
+        "iconInfo": [
+          
+        ],
+        "link": "//list.vip.com/100678880.html",
+        "showTimeFrom": 1590976800,
+        "topFiveCountTime": 1602554400
+      },
+      "100684837": {
+        "activeIndexTips": "",
+        "displayEndtime": 2145887938,
+        "salesNo": "100684837",
+        "brandImage": {
+          "size1": "//d.vpimg1.com/upcb/2020/09/12/121/ias_ba2d2fe6be0b01bc88a70e66ab955985_570x273_90.jpg",
+          "size2": "//d.vpimg1.com/upcb/2020/09/12/121/ias_ba2d2fe6be0b01bc88a70e66ab955985_320x153_90.jpg"
+        },
+        "mobileImageOne": "//d.vpimg1.com/upcb/2020/09/12/121/ias_ba2d2fe6be0b01bc88a70e66ab955985.jpg",
+        "agio": "<span class=\"salebg2\">0.8</span>折起",
+        "salesName": "儿童玩具IP款热销好货",
+        "brandStoreSn": "",
+        "vendorSaleMessage": "",
+        "isSpecialBanner": "0",
+        "hiddenEndTime": 1,
+        "iconInfo": [
+          
+        ],
+        "link": "//list.vip.com/100684837.html",
+        "showTimeFrom": 1590482281,
+        "topFiveCountTime": 1602554400
+      },
+      "100684840": {
+        "activeIndexTips": "",
+        "displayEndtime": 2145887938,
+        "salesNo": "100684840",
+        "brandImage": {
+          "size1": "//d.vpimg1.com/upcb/2020/09/23/144/ias_160083215507977_570x273_90.jpg",
+          "size2": "//d.vpimg1.com/upcb/2020/09/23/144/ias_160083215507977_320x153_90.jpg"
+        },
+        "mobileImageOne": "//d.vpimg1.com/upcb/2020/09/23/144/ias_160083215507977.jpg",
+        "agio": "<span class=\"salebg2\">0.6</span>折起",
+        "salesName": "童装秋冬清仓好货",
+        "brandStoreSn": "",
+        "vendorSaleMessage": "",
+        "isSpecialBanner": "0",
+        "hiddenEndTime": 1,
+        "iconInfo": [
+          
+        ],
+        "link": "//list.vip.com/100684840.html",
+        "showTimeFrom": 1590482281,
+        "topFiveCountTime": 1602554400
+      },
+      "100691898": {
+        "activeIndexTips": "",
+        "displayEndtime": 1602691200,
+        "salesNo": "100691898",
+        "brandImage": {
+          "size1": "//d.vpimg1.com/upcb/2020/09/08/69/ias_159953270030950_570x273_90.jpg",
+          "size2": "//d.vpimg1.com/upcb/2020/09/08/69/ias_159953270030950_320x153_90.jpg"
+        },
+        "mobileImageOne": "//d.vpimg1.com/upcb/2020/09/08/69/ias_159953270030950.jpg",
+        "agio": "<span class=\"salebg2\">5</span>折封顶",
+        "salesName": "暇步士Hush Puppies男女童装专场",
+        "brandStoreSn": "10000773",
+        "vendorSaleMessage": "",
+        "isSpecialBanner": "0",
+        "hiddenEndTime": 0,
+        "iconInfo": [
+          
+        ],
+        "link": "//list.vip.com/100691898.html",
+        "showTimeFrom": 1593568800,
+        "topFiveCountTime": 1602554400
+      },
+      "100696507": {
+        "activeIndexTips": "",
+        "displayEndtime": 1602691200,
+        "salesNo": "100696507",
+        "brandImage": {
+          "size1": "//c.vpimg1.com/upcb/2020/09/01/31/ias_159893456490371_570x273_90.jpg",
+          "size2": "//c.vpimg1.com/upcb/2020/09/01/31/ias_159893456490371_320x153_90.jpg"
+        },
+        "mobileImageOne": "//c.vpimg1.com/upcb/2020/09/01/31/ias_159893456490371.jpg",
+        "agio": "<span class=\"salebg2\">5</span>折封顶",
+        "salesName": "威尔贝鲁婴童服饰-今日大牌",
+        "brandStoreSn": "10010853",
+        "vendorSaleMessage": "",
+        "isSpecialBanner": "0",
+        "hiddenEndTime": 0,
+        "iconInfo": [
+          
+        ],
+        "link": "//list.vip.com/100696507.html",
+        "showTimeFrom": 1594432800,
+        "topFiveCountTime": 1602554400
+      },
+      "100696523": {
+        "activeIndexTips": "",
+        "displayEndtime": 1602691200,
+        "salesNo": "100696523",
+        "brandImage": {
+          "size1": "//d.vpimg1.com/upcb/2020/08/31/60/ias_159883973690469_570x273_90.jpg",
+          "size2": "//d.vpimg1.com/upcb/2020/08/31/60/ias_159883973690469_320x153_90.jpg"
+        },
+        "mobileImageOne": "//d.vpimg1.com/upcb/2020/08/31/60/ias_159883973690469.jpg",
+        "agio": "<span class=\"salebg2\">1.9</span>折起",
+        "salesName": "好孩子童车座椅爆款专场",
+        "brandStoreSn": "",
+        "vendorSaleMessage": "",
+        "isSpecialBanner": "0",
+        "hiddenEndTime": 0,
+        "iconInfo": [
+          
+        ],
+        "link": "//list.vip.com/100696523.html",
+        "showTimeFrom": 1592964000,
+        "topFiveCountTime": 1602554400
+      },
+      "100698036": {
+        "activeIndexTips": "",
+        "displayEndtime": 1602691200,
+        "salesNo": "100698036",
+        "brandImage": {
+          "size1": "//c.vpimg1.com/upcb/2020/08/31/144/ias_159886565020180_570x273_90.jpg",
+          "size2": "//c.vpimg1.com/upcb/2020/08/31/144/ias_159886565020180_320x153_90.jpg"
+        },
+        "mobileImageOne": "//c.vpimg1.com/upcb/2020/08/31/144/ias_159886565020180.jpg",
+        "agio": "<span class=\"salebg2\">5</span>折封顶",
+        "salesName": "韩国ASK junior男女童装今日大牌",
+        "brandStoreSn": "10025805",
+        "vendorSaleMessage": "",
+        "isSpecialBanner": "0",
+        "hiddenEndTime": 0,
+        "iconInfo": [
+          
+        ],
+        "link": "//list.vip.com/100698036.html",
+        "showTimeFrom": 1593568800,
+        "topFiveCountTime": 1602554400
+      },
+      "100698082": {
+        "activeIndexTips": "",
+        "displayEndtime": 1602691200,
+        "salesNo": "100698082",
+        "brandImage": {
+          "size1": "//d.vpimg1.com/upcb/2020/09/28/97/ias_160125847430161_570x273_90.jpg",
+          "size2": "//d.vpimg1.com/upcb/2020/09/28/97/ias_160125847430161_320x153_90.jpg"
+        },
+        "mobileImageOne": "//d.vpimg1.com/upcb/2020/09/28/97/ias_160125847430161.jpg",
+        "agio": "<span class=\"salebg2\">5</span>折封顶",
+        "salesName": "笛莎女童装专场",
+        "brandStoreSn": "10010876",
+        "vendorSaleMessage": "",
+        "isSpecialBanner": "0",
+        "hiddenEndTime": 0,
+        "iconInfo": [
+          
+        ],
+        "link": "//list.vip.com/100698082.html",
+        "showTimeFrom": 1593568800,
+        "topFiveCountTime": 1602554400
+      },
+      "100698147": {
+        "activeIndexTips": "",
+        "displayEndtime": 1602691200,
+        "salesNo": "100698147",
+        "brandImage": {
+          "size1": "//d.vpimg1.com/upcb/2020/09/27/188/ias_160117326457093_570x273_90.jpg",
+          "size2": "//d.vpimg1.com/upcb/2020/09/27/188/ias_160117326457093_320x153_90.jpg"
+        },
+        "mobileImageOne": "//d.vpimg1.com/upcb/2020/09/27/188/ias_160117326457093.jpg",
+        "agio": "<span class=\"salebg2\">4.9</span>折封顶",
+        "salesName": "一贝皇城EBAER童装-今日大牌专场",
+        "brandStoreSn": "10015323",
+        "vendorSaleMessage": "",
+        "isSpecialBanner": "0",
+        "hiddenEndTime": 0,
+        "iconInfo": [
+          
+        ],
+        "link": "//list.vip.com/100698147.html",
+        "showTimeFrom": 1593568800,
+        "topFiveCountTime": 1602554400
+      },
+      "100698164": {
+        "activeIndexTips": "",
+        "displayEndtime": 1602691200,
+        "salesNo": "100698164",
+        "brandImage": {
+          "size1": "//c.vpimg1.com/upcb/2020/09/27/199/ias_160118715487269_570x273_90.jpg",
+          "size2": "//c.vpimg1.com/upcb/2020/09/27/199/ias_160118715487269_320x153_90.jpg"
+        },
+        "mobileImageOne": "//c.vpimg1.com/upcb/2020/09/27/199/ias_160118715487269.jpg",
+        "agio": "<span class=\"salebg2\">1.3</span>折起",
+        "salesName": "MQD马骑顿童装专场",
+        "brandStoreSn": "",
+        "vendorSaleMessage": "",
+        "isSpecialBanner": "0",
+        "hiddenEndTime": 0,
+        "iconInfo": [
+          
+        ],
+        "link": "//list.vip.com/100698164.html",
+        "showTimeFrom": 1593568800,
+        "topFiveCountTime": 1602554400
+      },
+      "100698235": {
+        "activeIndexTips": "",
+        "displayEndtime": 1602691200,
+        "salesNo": "100698235",
+        "brandImage": {
+          "size1": "//d.vpimg1.com/upcb/2020/09/01/142/ias_159893415350132_570x273_90.jpg",
+          "size2": "//d.vpimg1.com/upcb/2020/09/01/142/ias_159893415350132_320x153_90.jpg"
+        },
+        "mobileImageOne": "//d.vpimg1.com/upcb/2020/09/01/142/ias_159893415350132.jpg",
+        "agio": "<span class=\"salebg2\">5</span>折封顶",
+        "salesName": "铅笔俱乐部童装-今日大牌专场",
+        "brandStoreSn": "10005047",
+        "vendorSaleMessage": "",
+        "isSpecialBanner": "0",
+        "hiddenEndTime": 0,
+        "iconInfo": [
+          
+        ],
+        "link": "//list.vip.com/100698235.html",
+        "showTimeFrom": 1593568800,
+        "topFiveCountTime": 1602554400
+      },
+      "100698414": {
+        "activeIndexTips": "",
+        "displayEndtime": 1602691200,
+        "salesNo": "100698414",
+        "brandImage": {
+          "size1": "//d.vpimg1.com/upcb/2020/09/01/19/ias_159893407682789_570x273_90.jpg",
+          "size2": "//d.vpimg1.com/upcb/2020/09/01/19/ias_159893407682789_320x153_90.jpg"
+        },
+        "mobileImageOne": "//d.vpimg1.com/upcb/2020/09/01/19/ias_159893407682789.jpg",
+        "agio": "<span class=\"salebg2\">1.1</span>折起",
+        "salesName": "波司登童装专场",
+        "brandStoreSn": "10004433",
+        "vendorSaleMessage": "",
+        "isSpecialBanner": "0",
+        "hiddenEndTime": 0,
+        "iconInfo": [
+          
+        ],
+        "link": "//list.vip.com/100698414.html",
+        "showTimeFrom": 1593568800,
+        "topFiveCountTime": 1602554400
+      },
+      "100699044": {
+        "activeIndexTips": "",
+        "displayEndtime": 1602691200,
+        "salesNo": "100699044",
+        "brandImage": {
+          "size1": "//c.vpimg1.com/upcb/2020/10/10/148/ias_160232299952876_570x273_90.jpg",
+          "size2": "//c.vpimg1.com/upcb/2020/10/10/148/ias_160232299952876_320x153_90.jpg"
+        },
+        "mobileImageOne": "//c.vpimg1.com/upcb/2020/10/10/148/ias_160232299952876.jpg",
+        "agio": "<span class=\"salebg2\">4.6</span>折封顶",
+        "salesName": "迪迪鹿童装今日大牌专场",
+        "brandStoreSn": "10013822",
+        "vendorSaleMessage": "",
+        "isSpecialBanner": "0",
+        "hiddenEndTime": 0,
+        "iconInfo": [
+          
+        ],
+        "link": "//list.vip.com/100699044.html",
+        "showTimeFrom": 1593568800,
+        "topFiveCountTime": 1602554400
+      },
+      "100701221": {
+        "activeIndexTips": "",
+        "displayEndtime": 1609379999,
+        "salesNo": "100701221",
+        "brandImage": {
+          "size1": "//d.vpimg1.com/upcb/2020/08/26/2/ias_159842747390946_570x273_90.jpg",
+          "size2": "//d.vpimg1.com/upcb/2020/08/26/2/ias_159842747390946_320x153_90.jpg"
+        },
+        "mobileImageOne": "//d.vpimg1.com/upcb/2020/08/26/2/ias_159842747390946.jpg",
+        "agio": "<span class=\"salebg2\">5</span>折封顶",
+        "salesName": "诺贝达婴幼童装ROBERTA BY ROBERTA--季末特卖专场",
+        "brandStoreSn": "10028134",
+        "vendorSaleMessage": "",
+        "isSpecialBanner": "0",
+        "hiddenEndTime": 0,
+        "iconInfo": [
+          
+        ],
+        "link": "//list.vip.com/100701221.html",
+        "showTimeFrom": 1593655200,
+        "topFiveCountTime": 1602554400
+      }
+    }
+  }
+}

@@ -20,7 +20,7 @@ gulp.task("script",function(){
   .pipe(connect.reload())
 })
 gulp.task("data",function(){
-  return gulp.src(["./js/*.json","!package.json"])
+  return gulp.src(["./data/*.json","!package.json"])
   .pipe(gulp.dest("dist/data"))
   .pipe(connect.reload())
 })
@@ -37,13 +37,23 @@ gulp.task("sassIndex",function(){
   .pipe(gulp.dest("dist/css"))
   .pipe(connect.reload())
 })
-gulp.task("build", ["copy-html", "images", "script", "data", "sassIndex"]);
+gulp.task("sassList",function(){
+  return gulp.src("./scss/list.scss")
+  .pipe(sass().on('error', sass.logError))
+  .pipe(gulp.dest("dist/css"))
+  .pipe(minifycss())
+  .pipe(rename("list.min.css"))
+  .pipe(gulp.dest("dist/css"))
+  .pipe(connect.reload())
+})
+gulp.task("build", ["copy-html", "images", "script", "data", "sassIndex","sassList"]);
 gulp.task("watch",function(){
   gulp.watch("./html/*.html",["copy-html"])
   gulp.watch("./img/*.{jpg,png}",["images"])
   gulp.watch(["./js/*.js","!gulpfile.js"],["script"])
   gulp.watch("./scss/index.scss",["sassIndex"])
-  gulp.watch(["./js/*.json","!package.json"],["data"])
+  gulp.watch("./scss/list.scss",["sassList"])
+  gulp.watch(["./data/*.json","!package.json"],["data"])
 })
 const connect = require("gulp-connect")
 gulp.task("server",function(){

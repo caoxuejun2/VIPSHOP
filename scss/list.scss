@@ -1,0 +1,199 @@
+@charset "utf-8";
+@mixin c {
+  width: 1000px;
+  margin: auto;
+}
+@mixin flex {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.headNav-li1{
+  color: #333;
+}
+.headNav-li2{
+  color: #FA2A83;
+}
+.pink{
+  color: #FA2A83;
+}
+.margin-l{
+  margin-left: 10px;
+}
+.filtrate{
+  @include c();
+  .filtrate-top{
+    margin-top: 20px;
+    height: 30px;
+    .filtrate-txt{
+      font-size: 20px;
+      .fiveOff{
+        font-size: 14px;
+      }
+    }
+    .filtrateCollect{
+      color: #FA2A83;
+      padding: 2px 8px;
+      border: 1px solid #DFDFDF;
+      border-radius: 16px;
+      cursor: pointer;
+      &:hover{
+        background-color: #FA2A83;
+        color: white;
+        .filtrateCollect-num{
+          color: white;
+        }
+      }
+      .filtrateCollect-num{
+        color: #A999BA;
+      }
+    }
+  }
+  .filtrate-tab{
+    @include c();
+    height: 46px;
+    line-height: 46px;
+    margin-top: 20px;
+    background-color: #F5F5F5;
+    border: 1px solid #E3E3E3;
+    .filtrate-tab-1{
+      width: 620px;
+      height: 46px;
+      &>:nth-child(1){
+        height: 44px;
+        display: inline-block;
+        color: #FA2A83;
+        border: 1px solid #FA2A83;
+      }
+      li{
+        text-align: center;
+        cursor: pointer;
+        padding: 0 18px;
+        border-right: 1px solid #E0E0E0;
+        img{
+          margin-top: 18px;
+        }
+        &:hover{
+          color: #FA2A83;
+        }
+      }
+      .filtrate-tab-li{
+        position: relative;
+        .trade-checkbox{
+          margin-right: 10px;
+        }
+        .filtrate-p{
+          margin-left: 10px;
+          .filtrate-price{
+            width: 54px;
+            height: 20px;
+            border: 1px solid #E4E4E4;
+            padding-left: 2px;
+            margin: 0 2px;
+            outline: 0;
+            &:focus {
+              border: 1px solid #afafaf;
+              box-shadow: 0 0 2px rgba(0,0,0,.2);
+            }
+          }
+          .filtrate-button{
+            display: none;
+            margin-left: 4px;
+            span{
+              background-color: #FA2A83;
+              color: white;
+              padding: 2px;
+              margin:0 2px;
+            }
+          }
+          &:hover{
+            .filtrate-button{
+              display: inline-block;
+            }
+            position: absolute;
+            left: 106px;
+            width: 264px;
+            height: 46px;
+            border: 1px solid #c8c8c8;
+            box-shadow: 0 0 2px rgba(0,0,0,.2);
+            background-color: #fff;
+          }
+        }
+      }
+    }
+    .filtrate-tab-2{
+      button{
+        border: 1px solid #BBBBBB;
+        color: #848585;
+        outline: 0;
+        border-radius: 4px;
+      }
+      .filtrate-left{
+        width: 20px;
+        height: 20px;
+        margin-left: 6px;
+        margin-right: 4px;
+        .icon-xiangzuo{
+          margin-left: -6px;
+        }
+      }
+      .filtrate-next{
+        background-color: #fff;
+        cursor: pointer;
+        margin-right: 10px;
+        &:hover{
+          color: #FA2A83;
+          border: 1px solid #FA2A83;
+        }
+      }
+    }
+  }
+}
+.tradeList{
+  @include c();
+  margin-top: 20px;
+  overflow: hidden;
+  .tradeList-item{
+    width: 234px;
+    height: 356px;
+    border: 1px solid #E8E8E8;
+    margin: 7px;
+    cursor: pointer;
+    &:hover{
+      border: 1px solid #FF38C0;
+    }
+    .tradeList-img{
+      width: 234px;
+      height: 236px;
+      overflow: hidden;
+      img{
+        width: 100%;
+      }
+    }
+    .tradeList-price{
+      padding: 10px;
+      .temai{
+        padding: 0 4px;
+        background-color: #FA2A83;
+        color: white;
+        border-radius: 10px;
+      }
+      .tradeListPrice-num{
+        font-weight: bold;
+        font-size: 18px;
+      }
+      .originalPrice{
+        color: #999;
+        text-decoration: line-through;
+      }
+      .price-off{
+        color: #999;
+      }
+    }
+    .tradeList-infor{
+      padding: 0 10px;
+      color: #999;
+    }
+  }
+  
+}

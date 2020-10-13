@@ -273,8 +273,6 @@ aside {
         font-size: 16px;
         font-weight: bold;
         margin: 4px; }
-    .nav-f .head-nav > :nth-child(2) {
-      color: #DF147F; }
     .nav-f .head-nav > :nth-child(3) {
       font-weight: bold; }
     .nav-f .head-nav li {
@@ -282,6 +280,9 @@ aside {
       cursor: pointer; }
       .nav-f .head-nav li:hover {
         color: #DF147F; }
+
+.headNav-li1 {
+  color: #FA2A83; }
 
 .head-nav .nav-more {
   width: 80px;
@@ -542,13 +543,96 @@ aside {
       text-align: center;
       margin-bottom: 10px; }
 
-.filtrate-top {
-  margin-top: 20px; }
-  .filtrate-top .filtrate-txt {
+.homeTrade {
+  position: relative; }
+  .homeTrade .homeTrade-c {
     width: 1000px;
-    margin: auto;
+    margin: auto; }
+  .homeTrade .homeTrade-title {
+    border-bottom: 1px solid #000;
+    margin: 20px 0;
+    min-height: 43px; }
+    .homeTrade .homeTrade-title .homeTrade-all {
+      margin-top: 20px;
+      font-size: 14px;
+      cursor: pointer; }
+      .homeTrade .homeTrade-title .homeTrade-all .icon-you1 {
+        margin-left: 4px; }
+      .homeTrade .homeTrade-title .homeTrade-all:hover {
+        color: #F10180; }
+  .homeTrade .homeTrades {
+    margin: 10px 5px;
+    position: relative; }
+    .homeTrade .homeTrades img {
+      width: 490px; }
+      .homeTrade .homeTrades img:hover {
+        animation: mark 1.5s; }
+  .homeTrade .homeTrades-infor {
+    padding: 20px 0 10px 10px;
+    font-size: 18px;
+    font-weight: bold; }
+  .homeTrade .homeTrades-off {
+    padding: 0 10px;
+    font-size: 16px;
+    color: #4D4D4D; }
+    .homeTrade .homeTrades-off .salebg2 {
+      color: #F10582;
+      font-weight: bold;
+      font-size: 18px; }
+  .homeTrade .homeTrade-collect {
+    position: absolute;
+    right: 10px;
+    top: 208px;
+    background: #fff;
+    padding: 0 6px;
+    border-radius: 18px;
+    opacity: 0; }
+    .homeTrade .homeTrade-collect .icon-shoucang1 {
+      color: #F10180; }
+    .homeTrade .homeTrade-collect:hover {
+      color: #F10180; }
+  .homeTrade:hover .homeTrade-collect {
+    opacity: 1; }
+  .homeTrade > :nth-child(2) {
+    margin-top: 30px; }
+  .homeTrade > :nth-child(3) {
+    margin-top: 30px; }
+
+.hometrade-tab {
+  width: 70px;
+  height: 370px;
+  padding: 4px;
+  border: 1px solid #D6D6D6;
+  position: absolute;
+  top: 44px;
+  left: 60px; }
+  .hometrade-tab .hometrade-tabs {
+    display: block;
+    padding: 8px 5px;
+    height: 20px;
+    border-bottom: 1px solid #eaeaea;
+    border-radius: 6px;
+    color: #666;
+    text-align: center; }
+    .hometrade-tab .hometrade-tabs:hover {
+      color: #F10180; }
+  .hometrade-tab .active {
+    background: #F10180;
+    color: white; }
+    .hometrade-tab .active:hover {
+      color: #fff; }
+  .hometrade-tab > :nth-last-child(1) {
+    border: none; }
+  .hometrade-tab .icon-yingtao, .hometrade-tab .icon-yanshuang, .hometrade-tab .icon-biao, .hometrade-tab .icon-yundong {
     font-size: 20px; }
-    .filtrate-top .filtrate-txt .fiveOff {
-      font-size: 14px; }
-  .filtrate-top .filtrateCollect {
-    color: #FA2A83; }
+
+@keyframes mark {
+  0% {
+    opacity: 1;
+    filter: alpha(opacity=100); }
+  50% {
+    opacity: .6;
+    filter: alpha(opacity=60); }
+  100% {
+    opacity: 1;
+    filter: alpha(opacity=100); } }

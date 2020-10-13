@@ -37,7 +37,6 @@ a{
 section,article,aside,header,footer,nav,figure,main,hgroup{
 	display: block;
 }
-
 @mixin c {
   width: 1000px;
   margin: auto;
@@ -342,9 +341,6 @@ aside{
 			margin: 4px;
 		}
 	}
-	&>:nth-child(2){
-		color: #DF147F;
-	}
 	&>:nth-child(3){
 		font-weight: bold;
 	}
@@ -356,6 +352,9 @@ aside{
 		}
 	}
 }
+}
+.headNav-li1{
+	color: #FA2A83;
 }
 .head-nav{
 	.nav-more{
@@ -679,16 +678,125 @@ aside{
 		}
 	}
 }
-.filtrate-top{
-	margin-top: 20px;
-	.filtrate-txt{
+.homeTrade{
+	position: relative;
+	.homeTrade-c{
 		@include c();
-		font-size: 20px;
-		.fiveOff{
+	}
+	
+	.homeTrade-title{
+		border-bottom: 1px solid #000;
+		margin: 20px 0;
+		min-height: 43px;
+		.homeTrade-all{
+			margin-top: 20px;
 			font-size: 14px;
+			cursor: pointer;
+			.icon-you1{
+				margin-left: 4px;
+			}
+			&:hover{
+				color: #F10180;
+			}
 		}
 	}
-	.filtrateCollect{
-		color: #FA2A83;
+	.homeTrades{
+		margin: 10px 5px;
+		position: relative;
+		img{
+			width: 490px;
+			&:hover{
+				animation: mark 1.5s;
+			}
+		}
+	}
+	.homeTrades-infor{
+		padding: 20px 0 10px 10px;
+		font-size: 18px;
+		font-weight: bold;
+	}
+	.homeTrades-off{
+		padding: 0 10px;
+		font-size: 16px;
+		color: #4D4D4D;
+		.salebg2{
+			color: #F10582;
+			font-weight: bold;
+			font-size: 18px;
+		}
+	}
+	.homeTrade-collect{
+		position: absolute;
+		right: 10px;
+		top: 208px;
+		background: #fff;
+		padding: 0 6px;
+		border-radius: 18px;
+		opacity: 0;
+		.icon-shoucang1{
+			color: #F10180;
+		}
+		&:hover{
+			color: #F10180;
+		}
+	}
+	&:hover{
+		.homeTrade-collect{
+			opacity: 1;
+		}
+	}
+	&>:nth-child(2){
+		margin-top: 30px;
+	}
+	&>:nth-child(3){
+		margin-top: 30px;
+	}
+}
+.hometrade-tab{
+	width: 70px;
+	height: 370px;
+	padding: 4px;
+	border: 1px solid #D6D6D6;
+	position: absolute;
+	top: 44px;
+	left: 60px;
+	.hometrade-tabs{
+		display: block;
+		padding: 8px 5px;
+		height: 20px;
+		border-bottom: 1px solid #eaeaea;
+		border-radius: 6px;
+		color: #666;
+		text-align: center;
+		&:hover{
+			color: #F10180;
+		}
+	}
+	.active{
+		background: #F10180;
+		color: white;
+		&:hover{
+			color: #fff;
+		}
+	}
+	&>:nth-last-child(1){
+		border: none;
+	}
+	.icon-yingtao,.icon-yanshuang,.icon-biao,.icon-yundong{
+		font-size: 20px;
+	}
+}
+@keyframes mark{
+	0% {
+    opacity: 1;
+    filter: alpha(opacity=100);
+	}
+	50% {
+		opacity: .6;
+		filter: alpha(opacity=60);
+	}
+	100% {
+		opacity: 1;
+		filter: alpha(opacity=100);
 	}
 }
