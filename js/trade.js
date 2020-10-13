@@ -45,7 +45,6 @@ define(["jquery","jquery-cookie"],function($){
     var scroll = 0;
     timer = setInterval(function(){
       var distance = document.body.scrollTop||document.documentElement.scrollTop;
-      console.log(distance)
       if(distance>=1750){
         $(".hometrade-tab").css("position","fixed");
         $(".hometrade-tab").css("top",180);
@@ -53,15 +52,26 @@ define(["jquery","jquery-cookie"],function($){
         $(".hometrade-tab").css("position","absolute");
         $(".hometrade-tab").css("top",44);
       }
-      switch((distance-1630)/3400){
-        case :0; break;
+      var d = Math.floor((distance-1630)/3400)
+      switch(d){
+        case 0:aBtns.removeClass("active").eq(0).addClass("active"); break;
+        case 1:aBtns.removeClass("active").eq(1).addClass("active"); break;
+        case 2:aBtns.removeClass("active").eq(2).addClass("active"); break;
+        case 3:aBtns.removeClass("active").eq(3).addClass("active"); break;
+        case 4:aBtns.removeClass("active").eq(4).addClass("active"); break;
+        case 5:aBtns.removeClass("active").eq(5).addClass("active"); break;
+        case 6:aBtns.removeClass("active").eq(6).addClass("active"); break;
+        case 7:aBtns.removeClass("active").eq(7).addClass("active"); break;
+        case 8:aBtns.removeClass("active").eq(8).addClass("active"); break;
+        case 9:aBtns.removeClass("active").eq(9).addClass("active"); break;
+        default:console.log(d+"出错啦");
       }
     },1)
     aBtns.click(function(){
       iNow = $(this).index();
       console.log(iNow)
       aBtns.removeClass("active").eq(iNow).addClass("active");
-      document.documentElement.scrollTop = (iNow*3400)+1630 
+      document.documentElement.scrollTop = (iNow*3410)+1630 
     })
   }
   return{

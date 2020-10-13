@@ -567,6 +567,8 @@ aside {
       width: 490px; }
       .homeTrade .homeTrades img:hover {
         animation: mark 1.5s; }
+    .homeTrade .homeTrades:hover .homeTrade-collect {
+      opacity: 1; }
   .homeTrade .homeTrades-infor {
     padding: 20px 0 10px 10px;
     font-size: 18px;
@@ -591,8 +593,6 @@ aside {
       color: #F10180; }
     .homeTrade .homeTrade-collect:hover {
       color: #F10180; }
-  .homeTrade:hover .homeTrade-collect {
-    opacity: 1; }
   .homeTrade > :nth-child(2) {
     margin-top: 30px; }
   .homeTrade > :nth-child(3) {

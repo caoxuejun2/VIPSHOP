@@ -80,7 +80,7 @@ define(["jquery","jquery-cookie"],function($){
     },1)
     $(".back").click(function(){
       var timer1 = setInterval(function(){
-        document.documentElement.scrollTop -= 6
+        document.documentElement.scrollTop -= 50
         if(document.documentElement.scrollTop==0){
           clearInterval(timer1)
         }
@@ -131,11 +131,15 @@ define(["jquery","jquery-cookie"],function($){
       }
     })
   }
+  function navlist(){
+
+  }
   return{
     move,
     off,
     ceiling,
     footerlist,
     tradelist,
+    navlist,
   }
 })

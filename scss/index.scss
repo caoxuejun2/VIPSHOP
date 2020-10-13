@@ -709,6 +709,11 @@ aside{
 				animation: mark 1.5s;
 			}
 		}
+		&:hover{
+			.homeTrade-collect{
+				opacity: 1;
+			}
+		}
 	}
 	.homeTrades-infor{
 		padding: 20px 0 10px 10px;
@@ -738,11 +743,6 @@ aside{
 		}
 		&:hover{
 			color: #F10180;
-		}
-	}
-	&:hover{
-		.homeTrade-collect{
-			opacity: 1;
 		}
 	}
 	&>:nth-child(2){
