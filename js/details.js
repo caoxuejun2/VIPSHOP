@@ -3,7 +3,8 @@ require.config({
     "jquery":"jquery-1.11.3",
     "jquery-cookie": "jquery.cookie",
     "parabola":"parabola",
-    "index":"index"
+    "index":"index",
+    "other":"other"
   },
   shim:{
     "jquery-cookie":["jquery"],
@@ -12,7 +13,7 @@ require.config({
     }
   }
 })
-require(['index'],function(index){
+require(['index','other'],function(index,other){
   index.ceiling();
   index.footerlist();
   index.navlist("../data/navJson1.json",".classify-a1");
@@ -26,4 +27,7 @@ require(['index'],function(index){
   index.navlist("../data/navJson9.json",".classify-a9");
   index.navlist("../data/navJson10.json",".classify-a10");
   index.navlist("../data/navJson11.json",".classify-a11");
+  other.magnifying();
+  other.download();
+  other.shoppingClick();
 })

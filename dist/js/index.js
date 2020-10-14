@@ -113,7 +113,7 @@ define(["jquery","jquery-cookie"],function($){
       success:function(arr){
         var products = arr.data.products;
         for(var i=0;i<products.length;i++){
-          var node = $(`<a href="javascrpt:;"><div class="tradeList-item fl">
+          var node = $(`<a href="details.html?productId=${products[i].productId}"><div class="tradeList-item fl">
           <div class="tradeList-img"><img src="${products[i].smallImage}" alt=""></div>
           <p class="tradeList-price"></p>
           <p class="tradeList-infor">${products[i].title}</p>

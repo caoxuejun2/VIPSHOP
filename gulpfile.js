@@ -46,13 +46,23 @@ gulp.task("sassList",function(){
   .pipe(gulp.dest("dist/css"))
   .pipe(connect.reload())
 })
-gulp.task("build", ["copy-html", "images", "script", "data", "sassIndex","sassList"]);
+gulp.task("sassOther",function(){
+  return gulp.src("./scss/other.scss")
+  .pipe(sass().on('error', sass.logError))
+  .pipe(gulp.dest("dist/css"))
+  .pipe(minifycss())
+  .pipe(rename("other.min.css"))
+  .pipe(gulp.dest("dist/css"))
+  .pipe(connect.reload())
+})
+gulp.task("build", ["copy-html", "images", "script", "data", "sassIndex","sassList","sassOther"]);
 gulp.task("watch",function(){
   gulp.watch("./html/*.html",["copy-html"])
   gulp.watch("./img/*.{jpg,png}",["images"])
   gulp.watch(["./js/*.js","!gulpfile.js"],["script"])
   gulp.watch("./scss/index.scss",["sassIndex"])
   gulp.watch("./scss/list.scss",["sassList"])
+  gulp.watch("./scss/other.scss",["sassOther"])
   gulp.watch(["./data/*.json","!package.json"],["data"])
 })
 const connect = require("gulp-connect")
