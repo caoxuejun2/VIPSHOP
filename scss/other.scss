@@ -1,4 +1,42 @@
 @charset "utf-8";
+body,p,h1,h2,h3,h4,h5,h6,ul,ol,li,dl,dt,dd,input{
+	margin: 0;
+	padding: 0;
+}
+ul,ol,li{
+	list-style: none;
+}
+img{
+	vertical-align: top;
+	border: none;
+}
+body{
+	font-size: 12px;
+}
+.fl{
+	float: left;
+}
+.fr{
+	float: right;
+}
+a{
+	text-decoration: none;
+	color: #000;
+}
+.clr:after{
+	content: " ";
+	display: block;
+	clear: both;
+	height: 0;
+	overflow: hidden;
+	visibility: hidden;
+}
+.clr{
+	zoom: 1;
+}
+section,article,aside,header,footer,nav,figure,main,hgroup{
+	display: block;
+}
 @mixin c {
   width: 1000px;
   margin: auto;
@@ -306,6 +344,102 @@
 		.footerInfor-img{
 			text-align: center;
 			margin-bottom: 10px;
-		}
+    }
+    .footer-img{
+      div{
+        width:302px;
+        height: 142px;
+        margin: 42px 15px 20px ;
+      }
+      .footer-img1{
+        background-image: url(//ccp.vipstatic.com/img/cart/te/4/commons/sprites.png?741290b2);
+        background-position: -306px 0;
+      }
+      .footer-img2{
+        background: url(//ccp.vipstatic.com/img/cart/te/4/commons/sprites.png?741290b2) 0 0;
+      }
+      .footer-img3{
+        background-image: url(//ccp.vipstatic.com/img/cart/te/4/commons/sprites.png?741290b2);
+        background-position: 0 -145px;
+      }
+    }
 	}
+}
+.shopBag-header{
+  border-bottom: 1px solid #F10180;
+  .shopBag-header-c{
+    @include c();
+    .logo-img{
+      padding: 14px 0;
+    }
+    .shopBag-head-txt{
+      .shopBag-head-txt-top{
+        margin-top: 10px;
+        a{
+          margin: 0 10px;
+          color: #B3B2B2;
+          &:hover{
+            color: #F10180;
+          }
+        }
+      }
+      .shopBag-head-txt-bottom{
+        div{
+          margin: 12px;
+          .headSpan{
+            display: inline-block;
+            background-image: url(//ccp.vipstatic.com/img/cart/te/4/commons/sprites-hash-29a8cdc6.png?741290b2);
+            width: 20px;
+            height: 20px;
+            margin-top: 4px;
+            margin-right: 10px;
+          }
+          .span1{
+            background-position: -587px -169px;
+          }
+          .span2{
+            background-position: -432px -253px;
+          }
+          .span3{
+            background-position: -587px -145px;
+          }
+          .headSpan-txt{
+            margin-top: 8px;
+          }
+        }
+      }
+    }
+  }
+}
+.shopBag-nav{
+  width: 514px;
+  margin: 30px auto;
+  .shopBag-li{
+    width: 100px;
+    font-size: 14px;
+    text-align: center;
+    color: #acb2b5;
+    
+    .shopBagLi-txt{
+      color: #000;
+    }
+  }
+  .shopBagLi-img{
+    background-image: url(//ccp.vipstatic.com/img/cart/te/4/commons/sprites-hash-29a8cdc6.png?741290b2);
+    background-position: -260px -290px;
+    width: 100px;
+    height: 50px;
+  }
+  .img2{
+    background-position: -306px -145px;
+  }
+  .img3{
+    background-position: 0 -344px;
+  }
+  .img4{
+    background-position: -306px -199px;
+  }
+  .img5{
+    background-position: -462px -199px;
+  }
 }
