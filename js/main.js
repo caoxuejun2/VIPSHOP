@@ -4,7 +4,8 @@ require.config({
     "jquery-cookie": "jquery.cookie",
     "parabola":"parabola",
     "index":"index",
-    "trade":"trade"
+    "trade":"trade",
+    "other":"other"
   },
   shim:{
     "jquery-cookie":["jquery"],
@@ -13,7 +14,7 @@ require.config({
     }
   }
 })
-require(['index','trade'],function(index,trade){
+require(['index','trade','other'],function(index,trade,other){
   index.move();
   index.off();
   index.ceiling();
@@ -40,4 +41,5 @@ require(['index','trade'],function(index,trade){
   trade.wear("../data/home.json",".home");
   trade.wear2("../data/internation.json",".internation");
   trade.wear2("../data/live.json",".live");  
+  other.shoppingClick();
 })

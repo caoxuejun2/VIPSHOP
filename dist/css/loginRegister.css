@@ -1,0 +1,203 @@
+body, p, h1, h2, h3, h4, h5, h6, ul, ol, li, dl, dt, dd, input {
+  margin: 0;
+  padding: 0; }
+
+ul, ol, li {
+  list-style: none; }
+
+img {
+  vertical-align: top;
+  border: none; }
+
+body {
+  font-size: 12px; }
+
+.fl {
+  float: left; }
+
+.fr {
+  float: right; }
+
+a {
+  text-decoration: none;
+  color: #000; }
+
+.clr:after {
+  content: " ";
+  display: block;
+  clear: both;
+  height: 0;
+  overflow: hidden;
+  visibility: hidden; }
+
+.clr {
+  zoom: 1; }
+
+section, article, aside, header, footer, nav, figure, main, hgroup {
+  display: block; }
+
+.header {
+  width: 1000px;
+  margin: auto;
+  position: relative; }
+  .header .logo .h-logo {
+    background-image: url(//member-ssl.vipstatic.com/img/passport/sprites-hash-c9975078.png?4eaaf192);
+    background-position: -308px -57px;
+    width: 125px;
+    height: 100px;
+    display: inline-block; }
+  .header .sevice {
+    background-image: url(//member-ssl.vipstatic.com/img/passport/sprites-hash-c9975078.png?4eaaf192);
+    background-position: 0 0;
+    width: 304px;
+    height: 100px;
+    position: absolute;
+    top: 0;
+    right: 0; }
+
+.main {
+  background: url("https://a.vpimg2.com/upload/flow/2019/01/29/88/15487540172274.jpg") no-repeat top center; }
+  .main .main-c {
+    width: 1000px;
+    margin: auto;
+    padding: 50px 20px;
+    min-height: 550px; }
+    .main .main-c .login {
+      width: 360px;
+      border-radius: 2px;
+      background-color: #fff; }
+      .main .main-c .login .login-tab {
+        border-bottom: 1px solid #e0e0e0;
+        padding: 14px 0; }
+        .main .main-c .login .login-tab div {
+          display: inline-block;
+          padding: 0 52px;
+          text-align: center;
+          color: #666;
+          font-size: 18px;
+          font-weight: 700;
+          cursor: pointer;
+          overflow: hidden; }
+        .main .main-c .login .login-tab > :nth-child(1) {
+          border-right: 1px solid #e0e0e0;
+          color: #EE007C; }
+      .main .main-c .login .tab-content {
+        min-height: 192px;
+        padding-top: 36px; }
+        .main .main-c .login .tab-content .content-img {
+          margin-left: 105px;
+          padding: 10px 0;
+          width: 150px;
+          height: 150px;
+          background-color: #fff;
+          border: 1px solid #f0f0f0; }
+          .main .main-c .login .tab-content .content-img img {
+            width: 150px;
+            height: 150px; }
+        .main .main-c .login .tab-content .content-text {
+          margin-top: 20px;
+          color: #333;
+          line-height: 16px;
+          font-size: 14px;
+          text-align: center; }
+          .main .main-c .login .tab-content .content-text .saoma {
+            display: inline-block;
+            background-image: url(//member-ssl.vipstatic.com/img/passport/sprites-hash-c9975078.png?4eaaf192);
+            background-position: -605px -121px;
+            width: 16px;
+            height: 16px;
+            color: #333;
+            line-height: 16px;
+            margin-right: 6px; }
+          .main .main-c .login .tab-content .content-text .pink {
+            color: #EE007C; }
+      .main .main-c .login .tab-content2 {
+        position: relative;
+        width: 300px;
+        margin: auto;
+        padding-top: 30px;
+        display: none; }
+        .main .main-c .login .tab-content2 .con-input {
+          padding-left: 40px;
+          width: 248px;
+          height: 42px;
+          line-height: 42px;
+          border-radius: 3px;
+          outline: 0;
+          border: 1px solid #B2B2B2;
+          color: #b2b2b2; }
+        .main .main-c .login .tab-content2 .content2-2 {
+          display: none; }
+        .main .main-c .login .tab-content2 .content2-icon {
+          background-image: url(//member-ssl.vipstatic.com/img/passport/sprites-hash-c9975078.png?4eaaf192);
+          background-position: -504px -221px;
+          width: 20px;
+          height: 20px;
+          position: absolute;
+          top: 40px;
+          left: 11px; }
+        .main .main-c .login .tab-content2 .warning, .main .main-c .login .tab-content2 .warning2, .main .main-c .login .tab-content2 .warning3 {
+          height: 20px;
+          line-height: 20px;
+          color: red; }
+        .main .main-c .login .tab-content2 .icon2 {
+          background-position: -528px -221px;
+          top: 104px; }
+        .main .main-c .login .tab-content2 .tab2:hover {
+          color: #EE007C; }
+        .main .main-c .login .tab-content2 .login-go {
+          background: #f7208f;
+          color: #fff;
+          height: 46px;
+          line-height: 46px;
+          width: 300px;
+          font-size: 18px;
+          border-radius: 4px;
+          text-align: center;
+          margin-top: 20px;
+          cursor: pointer; }
+          .main .main-c .login .tab-content2 .login-go:hover {
+            background: #f1409c; }
+        .main .main-c .login .tab-content2 .icon3 {
+          background-position: -456px -221px; }
+        .main .main-c .login .tab-content2 .icon4 {
+          background-position: -480px -221px;
+          top: 105px; }
+        .main .main-c .login .tab-content2 .input2 {
+          width: 138px;
+          margin-bottom: 20px; }
+        .main .main-c .login .tab-content2 .huoqu {
+          background-color: #FCEDF2;
+          width: 110px;
+          height: 42px;
+          line-height: 42px;
+          border: 1px solid #FFBEE0;
+          color: #E60078;
+          display: inline-block;
+          font-size: 14px;
+          text-align: center;
+          border-radius: 3px; }
+      .main .main-c .login .login-bottom {
+        width: 300px;
+        margin: 0 auto;
+        position: relative;
+        z-index: 1;
+        padding-top: 30px;
+        padding-bottom: 15px; }
+        .main .main-c .login .login-bottom .login-third-special {
+          text-align: center; }
+          .main .main-c .login .login-bottom .login-third-special .weixin {
+            background-image: url(//member-ssl.vipstatic.com/img/passport/sprites-hash-c9975078.png?4eaaf192);
+            background-position: -580px -161px;
+            width: 40px;
+            height: 40px;
+            display: inline-block;
+            margin-bottom: 10px; }
+          .main .main-c .login .login-bottom .login-third-special .third-special a {
+            margin: 2px 12px; }
+            .main .main-c .login .login-bottom .login-third-special .third-special a:hover {
+              color: #EE007C; }
+          .main .main-c .login .login-bottom .login-third-special .third-special > :nth-child(1), .main .main-c .login .login-bottom .login-third-special .third-special > :nth-child(4) {
+            color: #666; }
+          .main .main-c .login .login-bottom .login-third-special .login-register {
+            font-size: 14px; }

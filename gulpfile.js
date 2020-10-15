@@ -55,7 +55,16 @@ gulp.task("sassOther",function(){
   .pipe(gulp.dest("dist/css"))
   .pipe(connect.reload())
 })
-gulp.task("build", ["copy-html", "images", "script", "data", "sassIndex","sassList","sassOther"]);
+gulp.task("sassLogin",function(){
+  return gulp.src("./scss/loginRegister.scss")
+  .pipe(sass().on('error', sass.logError))
+  .pipe(gulp.dest("dist/css"))
+  .pipe(minifycss())
+  .pipe(rename("loginRegister.min.css"))
+  .pipe(gulp.dest("dist/css"))
+  .pipe(connect.reload())
+})
+gulp.task("build", ["copy-html", "images", "script", "data", "sassIndex","sassList","sassOther","sassLogin"]);
 gulp.task("watch",function(){
   gulp.watch("./html/*.html",["copy-html"])
   gulp.watch("./img/*.{jpg,png}",["images"])
@@ -63,6 +72,7 @@ gulp.task("watch",function(){
   gulp.watch("./scss/index.scss",["sassIndex"])
   gulp.watch("./scss/list.scss",["sassList"])
   gulp.watch("./scss/other.scss",["sassOther"])
+  gulp.watch("./scss/loginRegister.scss",["sassLogin"])
   gulp.watch(["./data/*.json","!package.json"],["data"])
 })
 const connect = require("gulp-connect")

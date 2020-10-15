@@ -339,3 +339,121 @@ section, article, aside, header, footer, nav, figure, main, hgroup {
     background-position: -306px -199px; }
   .shopBag-nav .img5 {
     background-position: -462px -199px; }
+
+.shoppingBag-main {
+  width: 1000px;
+  margin: auto; }
+  .shoppingBag-main .sbMain-top {
+    border-bottom: 1px solid #B3B2B2;
+    padding: 15px 8px; }
+    .shoppingBag-main .sbMain-top a {
+      color: #F10180;
+      font-size: 16px;
+      font-weight: bold;
+      border-bottom: 3px solid #F10180;
+      padding: 12px 8px; }
+  .shoppingBag-main .delivery {
+    font-size: 16px;
+    padding: 30px 0; }
+    .shoppingBag-main .delivery .delivery-adress {
+      font-weight: bold;
+      margin-left: 10px; }
+  .shoppingBag-main .shopBagTrade {
+    border: 1px solid #acb2b5; }
+    .shoppingBag-main .shopBagTrade .shopBagTrade-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      height: 38px;
+      line-height: 38px;
+      background: #F9F9F9;
+      border-bottom: 1px solid #acb2b5; }
+      .shoppingBag-main .shopBagTrade .shopBagTrade-top .shopBagTrade-top-left {
+        color: #F10180;
+        border-left: 2px solid #F10180;
+        font-size: 16px;
+        padding-left: 10px; }
+      .shoppingBag-main .shopBagTrade .shopBagTrade-top .shopBagTrade-top-right {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        width: 600px; }
+    .shoppingBag-main .shopBagTrade .shopBagTrades {
+      padding: 20px 20px 0; }
+      .shoppingBag-main .shopBagTrade .shopBagTrades .shopBagTrade-item {
+        margin-bottom: 16px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center; }
+        .shoppingBag-main .shopBagTrade .shopBagTrades .shopBagTrade-item .shopBagTrades-infor {
+          width: 260px; }
+          .shoppingBag-main .shopBagTrade .shopBagTrades .shopBagTrade-item .shopBagTrades-infor img {
+            width: 58px; }
+          .shoppingBag-main .shopBagTrade .shopBagTrades .shopBagTrade-item .shopBagTrades-infor .shopBagTrades-infor-title {
+            width: 184px;
+            margin-left: 10px; }
+            .shoppingBag-main .shopBagTrade .shopBagTrades .shopBagTrade-item .shopBagTrades-infor .shopBagTrades-infor-title span {
+              display: inline-block;
+              margin-top: 8px; }
+        .shoppingBag-main .shopBagTrade .shopBagTrades .shopBagTrade-item .shopBagTrades-attr {
+          display: flex;
+          justify-content: space-around;
+          align-items: center;
+          width: 564px; }
+          .shoppingBag-main .shopBagTrade .shopBagTrades .shopBagTrade-item .shopBagTrades-attr .shopBagTrades-btn {
+            border: 1px solid #B4A7BB;
+            width: 16px;
+            height: 16px;
+            display: inline-block;
+            text-align: center;
+            margin: 0 4px;
+            cursor: pointer; }
+          .shoppingBag-main .shopBagTrade .shopBagTrades .shopBagTrade-item .shopBagTrades-attr > :nth-child(1) {
+            font-weight: bold; }
+    .shoppingBag-main .shopBagTrade .shopBagTrade-bottom {
+      height: 50px;
+      line-height: 50px;
+      border-top: 1px solid #acb2b5;
+      color: #5C6467; }
+      .shoppingBag-main .shopBagTrade .shopBagTrade-bottom span {
+        padding: 2px 6px;
+        background: #FF9B33;
+        color: #fff;
+        margin: 0 10px; }
+  .shoppingBag-main .settleAccounts {
+    border: 1px solid #acb2b5;
+    margin-top: 20px;
+    padding: 14px 20px; }
+    .shoppingBag-main .settleAccounts .discountCoupon {
+      color: #F10180;
+      border: 1px solid #F10180;
+      border-radius: 4px;
+      padding: 4px;
+      cursor: pointer; }
+    .shoppingBag-main .settleAccounts .settleAccounts-price {
+      color: #888; }
+      .shoppingBag-main .settleAccounts .settleAccounts-price p {
+        margin: 10px 0; }
+      .shoppingBag-main .settleAccounts .settleAccounts-price .trades-num {
+        color: #F10180;
+        margin: 0 2px; }
+      .shoppingBag-main .settleAccounts .settleAccounts-price .totalPrice {
+        color: #333;
+        font-size: 14px;
+        margin-left: 30px; }
+      .shoppingBag-main .settleAccounts .settleAccounts-price .grossPrice {
+        font-size: 18px;
+        margin-left: 30px;
+        color: #F10180;
+        font-weight: bold; }
+  .shoppingBag-main .payment {
+    height: 50px;
+    background-color: #F3F3F3;
+    border: 1px solid #ACB2B5;
+    border-top: none; }
+    .shoppingBag-main .payment p {
+      background: #F10180;
+      padding: 13px 60px;
+      color: #fff;
+      font-size: 18px;
+      cursor: pointer; }

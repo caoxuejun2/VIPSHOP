@@ -1,0 +1,21 @@
+require.config({
+  paths:{
+    "jquery":"jquery-1.11.3",
+    "jquery-cookie": "jquery.cookie",
+    "parabola":"parabola",
+    "index":"index",
+    "other":"other"
+  },
+  shim:{
+    "jquery-cookie":["jquery"],
+    parabola:{ 
+      exports:'_'
+    }
+  }
+})
+require(['other'],function(other){
+  other.sc_msg();
+  other.shoppingClick();
+  other.loginTab();
+  other.verify();
+})

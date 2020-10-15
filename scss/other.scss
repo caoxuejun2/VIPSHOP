@@ -46,6 +46,11 @@ section,article,aside,header,footer,nav,figure,main,hgroup{
 	justify-content: space-between;
 	align-items: center;
 }
+@mixin flex2 {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
 .details{
   @include c();
   margin-top: 20px;
@@ -441,5 +446,143 @@ section,article,aside,header,footer,nav,figure,main,hgroup{
   }
   .img5{
     background-position: -462px -199px;
+  }
+}
+.shoppingBag-main{
+  @include c();
+  .sbMain-top{
+    border-bottom: 1px solid #B3B2B2;
+    padding: 15px 8px;
+    a{
+      color: #F10180;
+      font-size: 16px;
+      font-weight: bold;
+      border-bottom: 3px solid #F10180;
+      padding: 12px 8px;
+    }
+  }
+  .delivery{
+    font-size: 16px;
+    padding: 30px 0;
+    .delivery-adress{
+      font-weight: bold;
+      margin-left: 10px;
+    }
+  }
+  .shopBagTrade{
+    border: 1px solid #acb2b5;
+    .shopBagTrade-top{
+      @include flex();
+      height: 38px;
+      line-height: 38px;
+      background: #F9F9F9;
+      border-bottom: 1px solid #acb2b5;
+      .shopBagTrade-top-left{
+        color: #F10180;
+        border-left: 2px solid #F10180;
+        font-size: 16px;
+        padding-left: 10px;
+      }
+      .shopBagTrade-top-right{
+        @include flex2();
+        width: 600px;
+      }
+      
+    }
+    .shopBagTrades{
+      padding: 20px 20px 0;
+      .shopBagTrade-item{
+        margin-bottom: 16px;;
+        @include flex();
+        .shopBagTrades-infor{
+          width: 260px;
+          img{
+            width: 58px;
+          }
+          .shopBagTrades-infor-title{
+            width: 184px;
+            margin-left: 10px;
+            span{
+              display: inline-block;
+              margin-top: 8px;
+            }
+          }
+        }
+        .shopBagTrades-attr{
+          @include flex2();
+          width: 564px;
+          .shopBagTrades-btn{
+            border: 1px solid #B4A7BB;
+            width: 16px;
+            height: 16px;
+            display: inline-block;
+            text-align: center;
+            margin: 0 4px;
+            cursor: pointer;
+          }
+          &>:nth-child(1){
+            font-weight: bold;
+          }
+        }
+      }
+    }
+    .shopBagTrade-bottom{
+      height: 50px;
+      line-height: 50px;
+      border-top: 1px solid #acb2b5;
+      color: #5C6467;
+      span{
+        padding: 2px 6px;
+        background: #FF9B33;
+        color: #fff;
+        margin: 0 10px;
+      }
+    }
+  }
+  .settleAccounts{
+    border: 1px solid #acb2b5;
+    margin-top: 20px;
+    padding: 14px 20px;
+    .discountCoupon{
+      color: #F10180;
+      border: 1px solid #F10180;
+      border-radius:4px ;
+      padding: 4px;
+      cursor: pointer;
+    }
+    .settleAccounts-price{
+      color: #888;
+      p{
+        margin: 10px 0;
+      }
+      .trades-num{
+        color: #F10180;
+        margin: 0 2px;
+      }
+      .totalPrice{
+        color: #333;
+        font-size: 14px;
+        margin-left: 30px;
+      }
+      .grossPrice{
+        font-size: 18px;
+        margin-left: 30px;
+        color: #F10180;
+        font-weight: bold;
+      }
+    }
+  }
+  .payment{
+    height: 50px;
+    background-color: #F3F3F3;
+    border: 1px solid #ACB2B5;
+    border-top: none;
+    p{
+      background: #F10180;
+      padding: 13px 60px;
+      color: #fff;
+      font-size: 18px;
+      cursor: pointer;
+    }
   }
 }

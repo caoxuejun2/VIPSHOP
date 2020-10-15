@@ -1,0 +1,262 @@
+@charset "utf-8";
+body,p,h1,h2,h3,h4,h5,h6,ul,ol,li,dl,dt,dd,input{
+	margin: 0;
+	padding: 0;
+}
+ul,ol,li{
+	list-style: none;
+}
+img{
+	vertical-align: top;
+	border: none;
+}
+body{
+	font-size: 12px;
+}
+.fl{
+	float: left;
+}
+.fr{
+	float: right;
+}
+a{
+	text-decoration: none;
+	color: #000;
+}
+.clr:after{
+	content: " ";
+	display: block;
+	clear: both;
+	height: 0;
+	overflow: hidden;
+	visibility: hidden;
+}
+.clr{
+	zoom: 1;
+}
+section,article,aside,header,footer,nav,figure,main,hgroup{
+	display: block;
+}
+@mixin c {
+  width: 1000px;
+  margin: auto;
+}
+@mixin flex {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+@mixin flex2 {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+.header{
+  @include c();
+  position: relative;
+  .logo{
+    .h-logo{
+      background-image: url(//member-ssl.vipstatic.com/img/passport/sprites-hash-c9975078.png?4eaaf192);
+      background-position: -308px -57px;
+      width: 125px;
+      height: 100px;
+      display: inline-block;
+    }
+  }
+  .sevice{
+    background-image: url(//member-ssl.vipstatic.com/img/passport/sprites-hash-c9975078.png?4eaaf192);
+    background-position: 0 0;
+    width: 304px;
+    height: 100px;
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+}
+.main{
+  background: url("https://a.vpimg2.com/upload/flow/2019/01/29/88/15487540172274.jpg") no-repeat top center;
+  .main-c{
+    @include c();
+    padding: 50px 20px;
+    min-height: 550px;
+    .login{
+      width: 360px;
+      border-radius: 2px;
+      background-color: #fff;
+      .login-tab{
+        border-bottom: 1px solid #e0e0e0;
+        padding: 14px 0;
+        div{
+          display: inline-block;
+          padding: 0 52px;
+          text-align: center;
+          color: #666;
+          font-size: 18px;
+          font-weight: 700;
+          cursor: pointer;
+          overflow: hidden;
+        }
+        &>:nth-child(1){
+          border-right: 1px solid #e0e0e0;
+          color: #EE007C;
+        }
+      }
+      .tab-content{
+        min-height: 192px;
+        padding-top: 36px;
+        .content-img{
+          margin-left: 105px;
+          padding: 10px 0;
+          width: 150px;
+          height: 150px;
+          background-color: #fff;
+          border: 1px solid #f0f0f0;
+          img{
+            width: 150px;
+            height: 150px;
+          }
+        }
+        .content-text{
+          margin-top: 20px;
+          color: #333;
+          line-height: 16px;
+          font-size: 14px;
+          text-align: center;
+          .saoma{
+            display: inline-block;
+            background-image: url(//member-ssl.vipstatic.com/img/passport/sprites-hash-c9975078.png?4eaaf192);
+            background-position: -605px -121px;
+            width: 16px;
+            height: 16px;
+            color: #333;
+            line-height: 16px;
+            margin-right: 6px;
+          }
+          .pink{
+            color: #EE007C;
+          }
+        }
+      }
+      .tab-content2{
+        position: relative;
+        width: 300px;
+        margin: auto;
+        padding-top: 30px;
+        display: none;
+        .con-input{
+          padding-left: 40px;
+          width: 248px;
+          height: 42px;
+          line-height: 42px;
+          border-radius: 3px;
+          outline: 0;
+          border: 1px solid #B2B2B2;
+          color: #b2b2b2;
+        }
+        .content2-2{
+          display: none;
+        }
+        .content2-icon{
+          background-image: url(//member-ssl.vipstatic.com/img/passport/sprites-hash-c9975078.png?4eaaf192);
+          background-position: -504px -221px;
+          width: 20px;
+          height: 20px;
+          position: absolute;
+          top: 40px;
+          left: 11px;
+        }
+        .warning{
+          height: 20px;
+          line-height: 20px;
+          color: red;
+        }
+        .warning2{
+          @extend .warning;
+        }
+        .warning3{
+          @extend .warning;
+        }
+        .icon2{
+          background-position: -528px -221px;
+          top: 104px;
+        }
+        .tab2{
+          &:hover{
+            color: #EE007C;
+          }
+        }
+        .login-go{
+          background: #f7208f;
+          color: #fff;
+          height: 46px;
+          line-height: 46px;
+          width: 300px;
+          font-size: 18px;
+          border-radius: 4px;
+          text-align: center;
+          margin-top: 20px;
+          cursor: pointer;
+          &:hover{
+            background: #f1409c;
+          }
+        }
+        .icon3{
+          background-position: -456px -221px;
+        }
+        .icon4{
+          background-position: -480px -221px;
+          top: 105px;
+        }
+        .input2{
+          width: 138px;
+          margin-bottom: 20px;
+        }
+        .huoqu{
+          background-color: #FCEDF2;
+          width: 110px;
+          height: 42px;
+          line-height: 42px;
+          border: 1px solid #FFBEE0;
+          color: #E60078;
+          display: inline-block;
+          font-size: 14px;
+          text-align: center;
+          border-radius: 3px;
+        }
+      }
+      .login-bottom{
+        width: 300px;
+        margin: 0 auto;
+        position: relative;
+        z-index: 1;
+        padding-top: 30px;
+        padding-bottom: 15px;
+        .login-third-special{
+          text-align: center;
+          .weixin{
+            background-image: url(//member-ssl.vipstatic.com/img/passport/sprites-hash-c9975078.png?4eaaf192);
+            background-position: -580px -161px;
+            width: 40px;
+            height: 40px;
+            display: inline-block;
+            margin-bottom: 10px;
+          }
+          .third-special{
+            a{
+              margin: 2px 12px;
+              &:hover{
+                color: #EE007C;
+              }
+            }
+            &>:nth-child(1),&>:nth-child(4){
+              color: #666;
+            }
+          }
+          .login-register{
+            font-size: 14px;
+          }
+        }
+      }
+    }
+  }
+}
