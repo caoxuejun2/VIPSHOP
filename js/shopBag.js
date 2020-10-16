@@ -18,4 +18,6 @@ require(['other'],function(other){
   other.shoppingClick();
   other.loginTab();
   other.verify();
+  other.login();
+  other.register();
 })

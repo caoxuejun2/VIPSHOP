@@ -351,29 +351,101 @@ define(["jquery","jquery-cookie","parabola"],function($,parabola){
       })
     })
   }
-  function verify(){
-    $("#user").blur(function(){
+  function verify(){ //验证
+    $("#phoneNum").blur(function(){
       var value = $(this).val()
-      if(value==0){
-        $(".warning").html("请输入登录名");
+      if(!/^\d{11}$/.test(value)){
+        $(".warning6").html("请输入正确的手机号码");
         $("#user").css("border","1px solid red")
-      }else if(!/^\d{11}$/.test(value)){
-        $(".warning").html("用户名有误");
-        $("#user").css("border","1px solid red")
-      }else{
-        $(".warning").html("");
-        $("#user").css("border","1px solid #b2b2b2")
       }
     })
-    $("#password").blur(function(){
+    $(".input2").blur(function(){
       var value = $(this).val()
       if(value==0){
-        $(".warning2").html("请输入密码");
-        $("#password").css("border","1px solid red")
+        $(".warning9").html("请输入6位数字手机验证码");
+        $(".input2").css("border","1px solid red")
       }else{
-        $(".warning2").html("");
-        $("#password").css("border","1px solid #b2b2b2")
+        $(".warning9").html("");
+        $(".input2").css("border","1px solid #b2b2b2")
       }
+    })
+    $("#phoneNum").focus(function(){
+      $(".warning6").html("请输入您的11位手机号码");
+      $("#phoneNum").css("border","1px solid #b2b2b2")
+    })
+        $("input").focus(function(){
+          $(this).css("border","1px solid #b2b2b2")
+          $(this).next().next().html("")
+        })
+  }
+  function login(){
+    $(".login-go").click(function(){
+      $.ajax({
+        type: 'post',
+        url: "./js/login.php",
+        data:{
+          username: $("#user").val(),
+          password: $('#password').val(),
+        },
+        success: function(result){
+          var obj = JSON.parse(result);
+          if(obj.code == 1){
+            $(".warning").html(obj.msg);
+            $("#user").css("border","1px solid red")
+          }else if(obj.code == 2){
+            $(".warning2").html(obj.msg);
+            $("#password").css("border","1px solid red")
+          }else if(obj.code == 3){
+            alert(obj.msg)
+          }else{
+            alert(obj.msg)
+            setInterval(function(){
+              location.assign("index.html")
+            },1000)
+          }
+        },
+        error: function(msg){
+          console.log(msg);
+        }
+      })
+    })
+  }
+  function register(){
+    $(".registerBtn").click(function(){
+      $.ajax({
+        type: 'post',
+        url: "./js/register.php",
+        data:{
+          username: $("#phoneNum").val(),
+          password: $('#password').val(),
+          repassword:$('#password2').val(),
+          createtime: Date.now(),
+        },
+        success: function(result){
+          var obj = JSON.parse(result);
+          if(obj.code == 1){
+            $(".warning6").html(obj.msg);
+            $("#phoneNum").css("border","1px solid red")
+          }else if(obj.code == 2){
+            $(".warning2").html(obj.msg);
+            $("#password").css("border","1px solid red")
+          }else if(obj.code == 3){
+            $(".warning8").html(obj.msg);
+            $("#password2").css("border","1px solid red")
+          }else if(obj.code == 4){
+            $(".warning6").html(obj.msg);
+            $("#phoneNum").css("border","1px solid red")
+          }else{
+            alert(obj.msg)
+            setInterval(function(){
+              location.assign("login.html")
+            },1000)
+          }
+        },
+        error: function(msg){
+          console.log(msg);
+        }
+      })
     })
   }
   return{
@@ -383,5 +455,7 @@ define(["jquery","jquery-cookie","parabola"],function($,parabola){
     sc_msg,
     loginTab,
     verify,
+    login,
+    register,
   }
 })

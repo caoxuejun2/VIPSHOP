@@ -210,6 +210,7 @@ section,article,aside,header,footer,nav,figure,main,hgroup{
         .input2{
           width: 138px;
           margin-bottom: 20px;
+          
         }
         .huoqu{
           background-color: #FCEDF2;
@@ -222,6 +223,7 @@ section,article,aside,header,footer,nav,figure,main,hgroup{
           font-size: 14px;
           text-align: center;
           border-radius: 3px;
+          cursor: pointer;
         }
       }
       .login-bottom{
@@ -259,4 +261,122 @@ section,article,aside,header,footer,nav,figure,main,hgroup{
       }
     }
   }
+}
+.register-main{
+  background: url("https://a.vpimg2.com/upload/flow/2019/01/29/88/15487540172274.jpg") no-repeat top center;
+  .registerMain-c{
+    @include c();
+    padding: 50px 20px;
+    min-height: 550px;
+    .register{
+      width: 360px;
+      border-radius: 2px;
+      background-color: #fff;
+      .register-top{
+        border-bottom: 1px solid #e0e0e0;
+        padding: 14px 0;
+        .register-title{
+          padding: 0 52px;
+          text-align: center;
+          color: #666;
+          font-size: 18px;
+          font-weight: 700;
+        }
+        &>:nth-child(2){
+          margin-right: 20px;
+          line-height: 24px;
+          font-size: 14px;
+          a{
+            color: #EE007C;
+          }
+        }
+      }
+      .registerContent{
+        position: relative;
+        width: 300px;
+        margin: auto;
+        padding-top: 30px;
+        .con-input{
+          padding-left: 40px;
+          width: 248px;
+          height: 42px;
+          line-height: 42px;
+          border-radius: 3px;
+          outline: 0;
+          border: 1px solid #B2B2B2;
+          color: #b2b2b2;
+        }
+        .content2-icon{
+          background-image: url(//member-ssl.vipstatic.com/img/passport/sprites-hash-c9975078.png?4eaaf192);
+          background-position: -504px -221px;
+          width: 20px;
+          height: 20px;
+          position: absolute;
+          top: 40px;
+          left: 11px;
+        }
+        .icon1{
+          background-position: -456px -221px;
+        }
+        .icon4{
+          background-position: -480px -221px;
+          top: 105px;
+        }
+        .warning6,.warning2,.warning8,.warning9{
+          height: 20px;
+          line-height: 20px;
+          color: red;
+        }
+        .input2{
+          width: 138px;
+        }
+        .huoqu{
+          background-color: #FCEDF2;
+          width: 110px;
+          height: 42px;
+          line-height: 42px;
+          border: 1px solid #FFBEE0;
+          color: #E60078;
+          display: inline-block;
+          font-size: 14px;
+          text-align: center;
+          border-radius: 3px;
+          cursor: pointer;
+        }
+        .icon2{
+          background-position: -528px -221px;
+          top: 168px;
+        }
+        .icon3{
+          background-position: -528px -221px;
+          top: 232px;
+        }
+        .checkbox{
+          margin-right: 10px;
+        }
+        .pink{
+          color: #EE007C;
+          display: inline-block;
+          line-height: 20px;
+          cursor: pointer;
+        }
+        .registerBtn{
+          width: 300px;
+          background-color: #EE007C;
+          color: #fff;
+          font-size: 16px;
+          text-align: center;
+          padding: 12px 0;
+          border-radius: 3px;
+          margin-top: 20px;
+          margin-bottom: 30px;
+          cursor: pointer;
+          &:hover{
+            background: #f1409c;
+          }
+        }
+      }
+    }
+  }
+  
 }
